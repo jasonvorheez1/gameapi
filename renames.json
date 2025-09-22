@@ -1,14 +1,12 @@
 [
   {
-    "old": "Sonic X",
-    "new": "Sonic the Hedgehog",
-  },
-  {
-    "old": "Fruits Basket 1st Season",
-    "new": "Fruits Basket",
-  },
-  {
     "old": "Fruits Basket 2nd Season",
     "new": "Fruits Basket",
+    "timestamp": "2025-09-22T00:56:01.273Z"
+  },
+  {
+    "old": "Sonic X",
+    "new": "Sonic the Hedgehog",
+    "timestamp": "2025-09-22T00:56:02.676Z"
   }
 ]

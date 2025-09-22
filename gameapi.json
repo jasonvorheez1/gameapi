@@ -1,8 +1,16 @@
 [
   {
-    "Id": 73798,
+    "id": "73798",
+    "Id": "73798",
+    "name": "Brusha",
     "Name": "Brusha",
+    "franchise": "Dandy's world",
     "Franchise": "Dandy's world",
-    "imageno1": "https://i.imgur.com/lRFvKFt.png"
+    "imageUrls": [
+      "https://i.imgur.com/lRFvKFt.png"
+    ],
+    "images": {
+      "imageno1": "https://i.imgur.com/lRFvKFt.png"
+    }
   }
 ]

@@ -38,22 +38,22 @@
     "characterClass": "Adventurer Adept",
     "abilities": [
       {
-        "name": "Ethereal Style",
-        "description": "Weaves arcane energy, boosting ATK & MAG by 10% and DEF by 6%. Enhanced effects when used with thematic abilities. enhancing combat effectiveness through focused training.",
-        "type": "active",
-        "rarity": "uncommon",
+        "name": "Hex Form",
+        "description": "Channels mystic power, increasing ATK & MAG by 10% and DEF by 6%. Enhanced effects when used with thematic abilities. weaving arcane energy to boost MAG by 10% and restore 5% MP per turn.",
+        "type": "passive",
+        "rarity": "common",
         "statBonus": {
-          "HP": 18,
-          "MP": 12,
-          "ATK": 6,
-          "DEF": 6,
-          "MAG": 6,
-          "LUK": 3
+          "HP": 12,
+          "MP": 8,
+          "ATK": 4,
+          "DEF": 4,
+          "MAG": 4,
+          "LUK": 2
         }
       },
       {
-        "name": "Ethereal Technique",
-        "description": "Weaves arcane energy, boosting ATK & MAG by 10% and DEF by 6%. Enhanced effects when used with thematic abilities. weaving arcane energy to boost MAG by 10% and restore 5% MP per turn.",
+        "name": "Mystic Arts",
+        "description": "Channels mystic power, increasing ATK & MAG by 10% and DEF by 6%. Enhanced effects when used with thematic abilities. weaving arcane energy to boost MAG by 10% and restore 5% MP per turn.",
         "type": "passive",
         "rarity": "common",
         "statBonus": {
@@ -66,7 +66,7 @@
         }
       }
     ],
-    "revealedAt": 1758608638689,
+    "revealedAt": 1758634855916,
     "revealedBy": "scraps"
   },
   "12090": {

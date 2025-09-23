@@ -3,13 +3,13 @@
     "characterClass": "Adventurer",
     "abilities": [
       {
-        "name": "Amy Vanguard",
-        "description": "Tuned footwork that maintains advantage after trades.\n\nAmy looks to the greats for guidance, encouraging allies, reducing their skill cooldowns by 9% and intensifying Amy’s Aura.\n\nAura: Encouraged allies are now Energized.\n\nAmy and Encouraged allies are healed for 12 HP every second.\n\nThese effects last until another skill is cast.\n\nEnergized allies gain +7 Energy from their Basic Attacks.",
-        "type": "ultimate",
-        "rarity": "uncommon",
+        "name": "Amy Aegis",
+        "description": "A focused technique that grants Invigorated status, improving combat effectiveness through disciplined execution.",
+        "type": "active",
+        "rarity": "common",
         "statBonus": {
-          "HP": 10,
-          "MP": 6,
+          "HP": 8,
+          "MP": 4,
           "ATK": 3,
           "DEF": 3,
           "MAG": 3,
@@ -17,21 +17,21 @@
         }
       },
       {
-        "name": "Amy Pulse",
-        "description": "Solid fundamentals that reduce risk in prolonged fights.\n\nAmy looks to the greats for guidance, encouraging allies, reducing their skill cooldowns by 8% and intensifying Amy’s Aura.\n\nAura: Encouraged allies are now Energized.\n\nAmy and Encouraged allies are healed for 10 HP every second.\n\nThese effects last until another skill is cast.\n\nEnergized allies gain +6 Energy from their Basic Attacks.",
-        "type": "ultimate",
-        "rarity": "common",
+        "name": "Amy Ascendant",
+        "description": "Creates a Encouraged field. Allied units in the field gain status bonuses and reduced cooldowns when abilities are used.",
+        "type": "passive",
+        "rarity": "rare",
         "statBonus": {
-          "HP": 6,
-          "MP": 3,
-          "ATK": 2,
-          "DEF": 2,
-          "MAG": 2,
-          "LUK": 1
+          "HP": 18,
+          "MP": 10,
+          "ATK": 6,
+          "DEF": 6,
+          "MAG": 6,
+          "LUK": 3
         }
       }
     ],
-    "revealedAt": 1758605688183,
+    "revealedAt": 1758606624002,
     "revealedBy": "scraps"
   },
   "16886": {

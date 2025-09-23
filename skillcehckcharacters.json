@@ -3,21 +3,35 @@
     "characterClass": "Adventurer",
     "abilities": [
       {
-        "name": "Amy's Resolve",
-        "description": "A signature move that amplifies presence and control without referencing origins.",
-        "type": "active",
-        "rarity": "rare",
+        "name": "Amy Vanguard",
+        "description": "Tuned footwork that maintains advantage after trades.\n\nAmy looks to the greats for guidance, encouraging allies, reducing their skill cooldowns by 9% and intensifying Amy’s Aura.\n\nAura: Encouraged allies are now Energized.\n\nAmy and Encouraged allies are healed for 12 HP every second.\n\nThese effects last until another skill is cast.\n\nEnergized allies gain +7 Energy from their Basic Attacks.",
+        "type": "ultimate",
+        "rarity": "uncommon",
         "statBonus": {
           "HP": 10,
           "MP": 6,
           "ATK": 3,
+          "DEF": 3,
+          "MAG": 3,
+          "LUK": 1
+        }
+      },
+      {
+        "name": "Amy Pulse",
+        "description": "Solid fundamentals that reduce risk in prolonged fights.\n\nAmy looks to the greats for guidance, encouraging allies, reducing their skill cooldowns by 8% and intensifying Amy’s Aura.\n\nAura: Encouraged allies are now Energized.\n\nAmy and Encouraged allies are healed for 10 HP every second.\n\nThese effects last until another skill is cast.\n\nEnergized allies gain +6 Energy from their Basic Attacks.",
+        "type": "ultimate",
+        "rarity": "common",
+        "statBonus": {
+          "HP": 6,
+          "MP": 3,
+          "ATK": 2,
           "DEF": 2,
           "MAG": 2,
           "LUK": 1
         }
       }
     ],
-    "revealedAt": 1758604632713,
+    "revealedAt": 1758605688183,
     "revealedBy": "scraps"
   },
   "16886": {

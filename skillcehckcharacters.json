@@ -1,4 +1,39 @@
 {
+  "3462": {
+    "characterClass": "Adventurer",
+    "abilities": [
+      {
+        "name": "Amane Flux",
+        "description": "A focused technique granting Awakened status, boosting ATK by 10% and DEF by 5%. Improves combat effectiveness through disciplined execution.",
+        "type": "passive",
+        "rarity": "common",
+        "statBonus": {
+          "HP": 12,
+          "MP": 8,
+          "ATK": 4,
+          "DEF": 4,
+          "MAG": 4,
+          "LUK": 2
+        }
+      },
+      {
+        "name": "Amane Veil",
+        "description": "Grants Awakened to nearby allies, boosting ATK & MAG by 25% and DEF by 15%. Awakened units can trigger extra effects when using abilities together. At full charge, upgrades aura effects and enables powerful coordinated strikes.",
+        "type": "passive",
+        "rarity": "epic",
+        "statBonus": {
+          "HP": 43,
+          "MP": 26,
+          "ATK": 14,
+          "DEF": 14,
+          "MAG": 14,
+          "LUK": 7
+        }
+      }
+    ],
+    "revealedAt": 1758608180439,
+    "revealedBy": "scraps"
+  },
   "5289": {
     "characterClass": "Adventurer",
     "abilities": [

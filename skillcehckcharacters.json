@@ -19,5 +19,26 @@
     ],
     "revealedAt": 1758604632713,
     "revealedBy": "scraps"
+  },
+  "16886": {
+    "characterClass": "Adventurer",
+    "abilities": [
+      {
+        "name": "Cait's Resolve",
+        "description": "A signature move that amplifies presence and control without referencing origins.",
+        "type": "active",
+        "rarity": "rare",
+        "statBonus": {
+          "HP": 10,
+          "MP": 6,
+          "ATK": 3,
+          "DEF": 2,
+          "MAG": 2,
+          "LUK": 1
+        }
+      }
+    ],
+    "revealedAt": 1758604776132,
+    "revealedBy": "scraps"
   }
 }

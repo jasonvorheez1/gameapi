@@ -35,38 +35,38 @@
     "revealedBy": "scraps"
   },
   "5289": {
-    "characterClass": "Adventurer",
+    "characterClass": "Adventurer Adept",
     "abilities": [
       {
-        "name": "Amy Aegis",
-        "description": "A focused technique that grants Blessed status, improving combat effectiveness through disciplined execution.",
-        "type": "ultimate",
-        "rarity": "common",
+        "name": "Ethereal Style",
+        "description": "Weaves arcane energy, boosting ATK & MAG by 10% and DEF by 6%. Enhanced effects when used with thematic abilities. enhancing combat effectiveness through focused training.",
+        "type": "active",
+        "rarity": "uncommon",
         "statBonus": {
-          "HP": 8,
-          "MP": 4,
-          "ATK": 3,
-          "DEF": 3,
-          "MAG": 3,
-          "LUK": 1
+          "HP": 18,
+          "MP": 12,
+          "ATK": 6,
+          "DEF": 6,
+          "MAG": 6,
+          "LUK": 3
         }
       },
       {
-        "name": "Amy Surge",
-        "description": "A focused technique that grants Concentrated status, improving combat effectiveness through disciplined execution.",
+        "name": "Ethereal Technique",
+        "description": "Weaves arcane energy, boosting ATK & MAG by 10% and DEF by 6%. Enhanced effects when used with thematic abilities. weaving arcane energy to boost MAG by 10% and restore 5% MP per turn.",
         "type": "passive",
         "rarity": "common",
         "statBonus": {
-          "HP": 8,
-          "MP": 4,
-          "ATK": 3,
-          "DEF": 3,
-          "MAG": 3,
-          "LUK": 1
+          "HP": 12,
+          "MP": 8,
+          "ATK": 4,
+          "DEF": 4,
+          "MAG": 4,
+          "LUK": 2
         }
       }
     ],
-    "revealedAt": 1758607714994,
+    "revealedAt": 1758608638689,
     "revealedBy": "scraps"
   },
   "12090": {

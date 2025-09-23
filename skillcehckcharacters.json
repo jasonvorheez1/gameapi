@@ -1,0 +1,58 @@
+{
+  "5289": {
+    "characterClass": "Adventurer",
+    "abilities": [
+      {
+        "name": "Amy Aegis",
+        "description": "A focused technique that grants Blessed status, improving combat effectiveness through disciplined execution.",
+        "type": "ultimate",
+        "rarity": "common",
+        "statBonus": {
+          "HP": 8,
+          "MP": 4,
+          "ATK": 3,
+          "DEF": 3,
+          "MAG": 3,
+          "LUK": 1
+        }
+      },
+      {
+        "name": "Amy Surge",
+        "description": "A focused technique that grants Concentrated status, improving combat effectiveness through disciplined execution.",
+        "type": "passive",
+        "rarity": "common",
+        "statBonus": {
+          "HP": 8,
+          "MP": 4,
+          "ATK": 3,
+          "DEF": 3,
+          "MAG": 3,
+          "LUK": 1
+        }
+      }
+    ],
+    "revealedAt": 1758607714994,
+    "revealedBy": "scraps"
+  },
+  "16886": {
+    "characterClass": "Adventurer",
+    "abilities": [
+      {
+        "name": "Cait's Resolve",
+        "description": "A signature move that amplifies presence and control without referencing origins.",
+        "type": "active",
+        "rarity": "rare",
+        "statBonus": {
+          "HP": 10,
+          "MP": 6,
+          "ATK": 3,
+          "DEF": 2,
+          "MAG": 2,
+          "LUK": 1
+        }
+      }
+    ],
+    "revealedAt": 1758604776132,
+    "revealedBy": "scraps"
+  }
+}

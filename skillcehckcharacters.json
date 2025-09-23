@@ -69,6 +69,41 @@
     "revealedAt": 1758607714994,
     "revealedBy": "scraps"
   },
+  "12090": {
+    "characterClass": "Adventurer",
+    "abilities": [
+      {
+        "name": "Annette Echo",
+        "description": "A focused technique that grants Fortified status, improving combat effectiveness through disciplined execution.",
+        "type": "active",
+        "rarity": "common",
+        "statBonus": {
+          "HP": 8,
+          "MP": 4,
+          "ATK": 3,
+          "DEF": 3,
+          "MAG": 3,
+          "LUK": 1
+        }
+      },
+      {
+        "name": "Annette Veil",
+        "description": "A focused technique that grants Linked status, improving combat effectiveness through disciplined execution.",
+        "type": "passive",
+        "rarity": "common",
+        "statBonus": {
+          "HP": 8,
+          "MP": 4,
+          "ATK": 3,
+          "DEF": 3,
+          "MAG": 3,
+          "LUK": 1
+        }
+      }
+    ],
+    "revealedAt": 1758608541682,
+    "revealedBy": "scraps"
+  },
   "16886": {
     "characterClass": "Adventurer",
     "abilities": [

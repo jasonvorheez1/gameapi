@@ -138,5 +138,26 @@
     ],
     "revealedAt": 1758608061458,
     "revealedBy": "scraps"
+  },
+  "73797": {
+    "characterClass": "Adventurer Adept",
+    "abilities": [
+      {
+        "name": "Hex Form",
+        "description": "Casts ethereal enchantments, enhancing ATK & MAG by 10% and DEF by 6%. Enhanced effects when used with thematic abilities. weaving arcane energy to boost MAG by 10% and restore 5% MP per turn.",
+        "type": "passive",
+        "rarity": "common",
+        "statBonus": {
+          "HP": 12,
+          "MP": 8,
+          "ATK": 4,
+          "DEF": 4,
+          "MAG": 4,
+          "LUK": 2
+        }
+      }
+    ],
+    "revealedAt": 1758649912306,
+    "revealedBy": "scraps"
   }
 }

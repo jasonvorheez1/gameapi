@@ -1,4 +1,25 @@
 {
+  "5289": {
+    "characterClass": "Tactical Vanguard Specialist",
+    "abilities": [
+      {
+        "name": "Ethereal Arts",
+        "description": "Weaves arcane energy, boosting ATK & MAG by 15% and DEF by 9%. Enhanced effects when used with thematic abilities. establishing a Mystic Circle that grants Enchanted status to allies (+15% MAG, spell immunity). Synergizes with allied techniques to escalate tempo over extended exchanges.",
+        "type": "ultimate",
+        "rarity": "rare",
+        "statBonus": {
+          "HP": 26,
+          "MP": 16,
+          "ATK": 8,
+          "DEF": 8,
+          "MAG": 8,
+          "LUK": 4
+        }
+      }
+    ],
+    "revealedAt": 1758660998451,
+    "revealedBy": "scraps"
+  },
   "7486": {
     "characterClass": "Arcane Wayfarer Adept",
     "abilities": [

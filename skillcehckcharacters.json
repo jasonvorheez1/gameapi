@@ -38,21 +38,35 @@
     "characterClass": "Adventurer",
     "abilities": [
       {
-        "name": "Cait's Resolve",
-        "description": "A signature move that amplifies presence and control without referencing origins.",
+        "name": "Cait Vanguard",
+        "description": "A focused technique granting Ascendant status, boosting ATK by 10% and DEF by 5%. Improves combat effectiveness through disciplined execution.",
         "type": "active",
-        "rarity": "rare",
+        "rarity": "common",
         "statBonus": {
-          "HP": 10,
-          "MP": 6,
-          "ATK": 3,
-          "DEF": 2,
-          "MAG": 2,
-          "LUK": 1
+          "HP": 12,
+          "MP": 8,
+          "ATK": 4,
+          "DEF": 4,
+          "MAG": 4,
+          "LUK": 2
+        }
+      },
+      {
+        "name": "Cait Echo",
+        "description": "A focused technique granting Linked status, boosting ATK by 10% and DEF by 5%. Improves combat effectiveness through disciplined execution.",
+        "type": "active",
+        "rarity": "common",
+        "statBonus": {
+          "HP": 12,
+          "MP": 8,
+          "ATK": 4,
+          "DEF": 4,
+          "MAG": 4,
+          "LUK": 2
         }
       }
     ],
-    "revealedAt": 1758604776132,
+    "revealedAt": 1758608061458,
     "revealedBy": "scraps"
   }
 }

@@ -35,12 +35,12 @@
     "revealedBy": "scraps"
   },
   "5289": {
-    "characterClass": "Adventurer Adept",
+    "characterClass": "Adventurer Master",
     "abilities": [
       {
-        "name": "Hex Form",
-        "description": "Channels mystic power, increasing ATK & MAG by 10% and DEF by 6%. Enhanced effects when used with thematic abilities. weaving arcane energy to boost MAG by 10% and restore 5% MP per turn.",
-        "type": "passive",
+        "name": "Hex Arts",
+        "description": "Weaves arcane energy, boosting ATK & MAG by 10% and DEF by 6%. Enhanced effects when used with thematic abilities. weaving arcane energy to boost MAG by 10% and restore 5% MP per turn.",
+        "type": "ultimate",
         "rarity": "common",
         "statBonus": {
           "HP": 12,
@@ -52,21 +52,21 @@
         }
       },
       {
-        "name": "Mystic Arts",
-        "description": "Channels mystic power, increasing ATK & MAG by 10% and DEF by 6%. Enhanced effects when used with thematic abilities. weaving arcane energy to boost MAG by 10% and restore 5% MP per turn.",
+        "name": "Arcane Technique",
+        "description": "Channels mystic power, increasing ATK & MAG by 15% and DEF by 9%. Enhanced effects when used with thematic abilities. establishing a Mystic Circle that grants Enchanted status to allies (+15% MAG, spell immunity).",
         "type": "passive",
-        "rarity": "common",
+        "rarity": "rare",
         "statBonus": {
-          "HP": 12,
-          "MP": 8,
-          "ATK": 4,
-          "DEF": 4,
-          "MAG": 4,
-          "LUK": 2
+          "HP": 26,
+          "MP": 16,
+          "ATK": 8,
+          "DEF": 8,
+          "MAG": 8,
+          "LUK": 4
         }
       }
     ],
-    "revealedAt": 1758634855916,
+    "revealedAt": 1758648821628,
     "revealedBy": "scraps"
   },
   "12090": {

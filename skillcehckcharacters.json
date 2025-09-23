@@ -4,8 +4,8 @@
     "abilities": [
       {
         "name": "Amy Aegis",
-        "description": "A focused technique that grants Invigorated status, improving combat effectiveness through disciplined execution.",
-        "type": "active",
+        "description": "A focused technique that grants Blessed status, improving combat effectiveness through disciplined execution.",
+        "type": "ultimate",
         "rarity": "common",
         "statBonus": {
           "HP": 8,
@@ -17,21 +17,21 @@
         }
       },
       {
-        "name": "Amy Ascendant",
-        "description": "Creates a Encouraged field. Allied units in the field gain status bonuses and reduced cooldowns when abilities are used.",
+        "name": "Amy Surge",
+        "description": "A focused technique that grants Concentrated status, improving combat effectiveness through disciplined execution.",
         "type": "passive",
-        "rarity": "rare",
+        "rarity": "common",
         "statBonus": {
-          "HP": 18,
-          "MP": 10,
-          "ATK": 6,
-          "DEF": 6,
-          "MAG": 6,
-          "LUK": 3
+          "HP": 8,
+          "MP": 4,
+          "ATK": 3,
+          "DEF": 3,
+          "MAG": 3,
+          "LUK": 1
         }
       }
     ],
-    "revealedAt": 1758606624002,
+    "revealedAt": 1758607714994,
     "revealedBy": "scraps"
   },
   "16886": {

@@ -1,4 +1,25 @@
 {
+  "7486": {
+    "characterClass": "Arcane Wayfarer Adept",
+    "abilities": [
+      {
+        "name": "Enchant Mastery",
+        "description": "Channels mystic power, increasing ATK & MAG by 10% and DEF by 6%. Enhanced effects when used with thematic abilities. enhancing combat effectiveness through focused training. Synergizes with allied techniques to escalate tempo over extended exchanges.",
+        "type": "active",
+        "rarity": "uncommon",
+        "statBonus": {
+          "HP": 18,
+          "MP": 12,
+          "ATK": 6,
+          "DEF": 6,
+          "MAG": 6,
+          "LUK": 3
+        }
+      }
+    ],
+    "revealedAt": 1758650471139,
+    "revealedBy": "scraps"
+  },
   "69993": {
     "characterClass": "Adventurer Virtuoso",
     "abilities": [

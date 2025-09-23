@@ -4,7 +4,7 @@
     "abilities": [
       {
         "name": "Signature Technique",
-        "description": "A defining technique that amplifies presence and control.",
+        "description": "A defining technique that enhances presence and control.",
         "type": "active",
         "rarity": "rare",
         "statBonus": {
@@ -17,7 +17,7 @@
         }
       }
     ],
-    "revealedAt": 1758599465683,
+    "revealedAt": 1758600607574,
     "revealedBy": "scraps"
   }
 }

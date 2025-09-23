@@ -3,13 +3,13 @@
     "characterClass": "Adventurer",
     "abilities": [
       {
-        "name": "Signature Technique",
-        "description": "A defining technique that enhances presence and control.",
+        "name": "Amy's Resolve",
+        "description": "A signature move that amplifies presence and control without referencing origins.",
         "type": "active",
         "rarity": "rare",
         "statBonus": {
-          "HP": 8,
-          "MP": 5,
+          "HP": 10,
+          "MP": 6,
           "ATK": 3,
           "DEF": 2,
           "MAG": 2,
@@ -17,7 +17,7 @@
         }
       }
     ],
-    "revealedAt": 1758602861395,
+    "revealedAt": 1758603812352,
     "revealedBy": "scraps"
   }
 }

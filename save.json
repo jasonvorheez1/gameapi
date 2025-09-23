@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-09-23T20:41:26.606Z",
+  "updatedAt": "2025-09-23T20:42:55.378Z",
   "topCharacters": [
     {
       "id": "29005",
@@ -13,6 +13,13 @@
       "name": "Winter Maddox",
       "franchise": "A.N.T. Farm",
       "img": "https://static.wikia.nocookie.net/disney/images/4/4b/Screenshot_2016-08-31_at_7.59.30_PM.png",
+      "score": 3
+    },
+    {
+      "id": "58234",
+      "name": "Houman-san",
+      "franchise": "Muromi-san",
+      "img": "https://cdn.myanimelist.net/images/characters/9/211705.jpg",
       "score": 3
     },
     {
@@ -30,10 +37,24 @@
       "score": 3
     },
     {
+      "id": "23328",
+      "name": "Wein Cruz",
+      "franchise": "Growlanser IV",
+      "img": "https://cdn.myanimelist.net/images/characters/3/64882.jpg",
+      "score": 3
+    },
+    {
       "id": "1341",
       "name": "Sesshoumaru",
       "franchise": "InuYasha",
-      "img": "https://cdn.myanimelist.net/images/characters/14/41081.jpg",
+      "img": "https://cdn.myanimelist.net/images/characters/5/93428.jpg",
+      "score": 3
+    },
+    {
+      "id": "13554",
+      "name": "Kiichirou Kimiyoshi",
+      "franchise": "Higurashi no Naku Koro ni",
+      "img": "https://cdn.myanimelist.net/images/characters/9/562533.jpg",
       "score": 3
     },
     {

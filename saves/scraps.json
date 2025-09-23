@@ -1,11 +1,11 @@
 {
   "username": "scraps",
-  "saved_at": "2025-09-23T22:46:54.550Z",
+  "saved_at": "2025-09-23T23:04:07.601Z",
   "meta": {
     "version": 1
   },
   "data": {
-    "id": "7a1a29a5-a895-4684-8521-6ca3fe1f6da7",
+    "id": "8d0375d9-1db8-4fcd-930d-4593885ac6f2",
     "shards": 200027065,
     "shards_by_rarity": {
       "Epic": 5506590,
@@ -698,7 +698,8 @@
       }
     },
     "wishlist": [
-      "73822"
+      "73797",
+      "5289"
     ],
     "upgrades": {
       "points": 994922163,

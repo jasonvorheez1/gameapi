@@ -1,0 +1,23 @@
+{
+  "5289": {
+    "characterClass": "Adventurer",
+    "abilities": [
+      {
+        "name": "Signature Technique",
+        "description": "A defining technique of Amy Rose from Sonic the Hedgehog, enhancing combat presence and resolve.",
+        "type": "active",
+        "rarity": "rare",
+        "statBonus": {
+          "HP": 8,
+          "MP": 5,
+          "ATK": 3,
+          "DEF": 2,
+          "MAG": 2,
+          "LUK": 1
+        }
+      }
+    ],
+    "revealedAt": 1758598401079,
+    "revealedBy": "scraps"
+  }
+}

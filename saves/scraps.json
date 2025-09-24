@@ -1,11 +1,11 @@
 {
   "username": "scraps",
-  "saved_at": "2025-09-24T04:16:11.732Z",
+  "saved_at": "2025-09-24T04:18:07.791Z",
   "meta": {
     "version": 1
   },
   "data": {
-    "id": "2d3f92aa-e6d2-4889-8e52-40750ba6f7c0",
+    "id": "ff031d75-40ed-4a5f-aeed-a209c1571cb1",
     "shards": 200027065,
     "shards_by_rarity": {
       "Epic": 5506753,
@@ -13,7 +13,7 @@
       "Common": 1851362,
       "Legendary": 9177586
     },
-    "points": 994936178,
+    "points": 994935298,
     "power": 52253,
     "collection": {
       "121": {
@@ -878,7 +878,11 @@
       }
     },
     "wishlist": [],
-    "upgrades": {},
+    "upgrades": {
+      "points": 994935298,
+      "wishChanceLevel": 4,
+      "wishSlotsLevel": 1
+    },
     "hangouts": 22,
     "ability_checks": 0,
     "total_ability_checks_used": 3,
@@ -2226,6 +2230,11 @@
           "LUK": 2
         }
       }
+    },
+    "update_progress": {
+      "save_version": 3,
+      "migrations_applied": [],
+      "last_update_at": "2025-09-24T04:18:07.791Z"
     }
   }
 }

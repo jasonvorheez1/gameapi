@@ -1,6 +1,6 @@
 {
   "username": "scraps",
-  "saved_at": "2025-09-24T02:30:03.818Z",
+  "saved_at": "2025-09-24T02:31:07.971Z",
   "meta": {
     "version": 1
   },
@@ -10,11 +10,11 @@
     "shards_by_rarity": {
       "Epic": 5506590,
       "Rare": 7569,
-      "Common": 1850879,
+      "Common": 1853836,
       "Legendary": 9177573
     },
-    "points": 994913901,
-    "power": 65946,
+    "points": 994934574,
+    "power": 66502,
     "collection": {
       "121": {
         "owned": true,
@@ -496,6 +496,16 @@
         },
         "acquiredAt": 1758660700269
       },
+      "53566": {
+        "owned": true,
+        "level": 1,
+        "xp": 21,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "acquiredAt": 1758681034394
+      },
       "56482": {
         "owned": true,
         "level": 1,
@@ -675,6 +685,16 @@
           "stage": 1
         },
         "acquiredAt": 1758660700269
+      },
+      "73822": {
+        "owned": true,
+        "level": 1,
+        "xp": 8062,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "acquiredAt": 1758681029230
       }
     },
     "wishlist": [
@@ -1472,6 +1492,22 @@
           "LUK": 9
         }
       },
+      "53566": {
+        "level": 1,
+        "xp": 21,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "stats": {
+          "HP": 123,
+          "MP": 109,
+          "ATK": 8,
+          "DEF": 16,
+          "MAG": 16,
+          "LUK": 7
+        }
+      },
       "56482": {
         "level": 1,
         "xp": 25,
@@ -1737,6 +1773,22 @@
           "DEF": 14,
           "MAG": 20,
           "LUK": 10
+        }
+      },
+      "73822": {
+        "level": 1,
+        "xp": 8062,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "stats": {
+          "HP": 127,
+          "MP": 76,
+          "ATK": 13,
+          "DEF": 15,
+          "MAG": 9,
+          "LUK": 2
         }
       }
     }

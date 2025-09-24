@@ -1,11 +1,11 @@
 {
   "username": "badbreath1029321",
-  "saved_at": "2025-09-24T04:43:10.459Z",
+  "saved_at": "2025-09-24T04:45:32.126Z",
   "meta": {
     "version": 1
   },
   "data": {
-    "id": "2b1946cc-7fc2-4c96-97f8-cba3a820062e",
+    "id": "bdeb24f3-a7eb-4be0-bd5c-1cb810aae78a",
     "shards": 200027065,
     "shards_by_rarity": {
       "Epic": 5506590,
@@ -1791,11 +1791,6 @@
           "LUK": 2
         }
       }
-    },
-    "update_progress": {
-      "save_version": 3,
-      "migrations_applied": [],
-      "last_update_at": "2025-09-24T04:43:10.458Z"
     }
   }
 }

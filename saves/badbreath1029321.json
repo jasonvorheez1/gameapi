@@ -1,20 +1,20 @@
 {
   "username": "badbreath1029321",
-  "saved_at": "2025-09-24T05:06:04.203Z",
+  "saved_at": "2025-09-24T05:08:16.217Z",
   "meta": {
     "version": 1
   },
   "data": {
-    "id": "44be2eae-1e40-438b-a1f5-402189749b3b",
+    "id": "30594954-83a8-44cc-bed3-bf02fdf01527",
     "shards": 200027065,
     "shards_by_rarity": {
       "Epic": 5506590,
       "Rare": 7569,
-      "Common": 1853836,
+      "Common": 11136,
       "Legendary": 9177573
     },
     "points": 994934574,
-    "power": 66502,
+    "power": 74660,
     "collection": {
       "121": {
         "owned": true,
@@ -688,10 +688,10 @@
       },
       "73822": {
         "owned": true,
-        "level": 1,
-        "xp": 8062,
+        "level": 60,
+        "xp": 6112,
         "rarityTier": {
-          "tier": "Common",
+          "tier": "Rare",
           "stage": 1
         },
         "acquiredAt": 1758681029230
@@ -1776,26 +1776,26 @@
         }
       },
       "73822": {
-        "level": 1,
-        "xp": 8062,
+        "level": 60,
+        "xp": 6112,
         "rarityTier": {
-          "tier": "Common",
+          "tier": "Rare",
           "stage": 1
         },
         "stats": {
-          "HP": 127,
-          "MP": 76,
-          "ATK": 13,
-          "DEF": 15,
-          "MAG": 9,
-          "LUK": 2
+          "HP": 835,
+          "MP": 489,
+          "ATK": 131,
+          "DEF": 133,
+          "MAG": 127,
+          "LUK": 61
         }
       }
     },
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-09-24T05:06:04.202Z"
+      "last_update_at": "2025-09-24T05:08:16.216Z"
     }
   }
 }

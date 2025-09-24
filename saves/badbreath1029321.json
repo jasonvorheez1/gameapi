@@ -1,0 +1,56 @@
+{
+  "username": "badbreath1029321",
+  "saved_at": "2025-09-24T02:30:07.903Z",
+  "meta": {
+    "version": 1
+  },
+  "data": {
+    "id": "bc7e452b-dcf5-488f-be40-25be3c995614",
+    "shards": 0,
+    "shards_by_rarity": {
+      "Epic": 0,
+      "Rare": 0,
+      "Common": 1,
+      "Legendary": 0
+    },
+    "points": 6,
+    "power": 15,
+    "collection": {
+      "4910": {
+        "owned": true,
+        "level": 1,
+        "xp": 3,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "acquiredAt": 1758664099724
+      }
+    },
+    "wishlist": [],
+    "upgrades": {},
+    "hangouts": 0,
+    "ability_checks": 0,
+    "total_ability_checks_used": 0,
+    "tutorial_completed": true,
+    "tutorial_completed_at": null,
+    "stats": {
+      "4910": {
+        "level": 1,
+        "xp": 3,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "stats": {
+          "HP": 141,
+          "MP": 34,
+          "ATK": 9,
+          "DEF": 10,
+          "MAG": 16,
+          "LUK": 7
+        }
+      }
+    }
+  }
+}

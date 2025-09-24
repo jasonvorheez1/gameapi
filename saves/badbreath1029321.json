@@ -1,299 +1,33 @@
 {
   "username": "badbreath1029321",
-  "saved_at": "2025-09-24T19:44:02.502Z",
+  "saved_at": "2025-09-24T19:46:53.885Z",
   "meta": {
     "version": 1
   },
   "data": {
-    "id": "9d8a3b7c-8fcc-497f-9bca-1a3a877788d0",
+    "id": "2324b730-e474-403b-b838-99b106717a44",
     "shards": 0,
     "shards_by_rarity": {
-      "Common": 9,
-      "Rare": 1,
+      "Common": 0,
+      "Rare": 0,
       "Epic": 0,
       "Legendary": 0
     },
-    "points": 60,
-    "power": 150,
-    "collection": {
-      "19283": {
-        "owned": true,
-        "level": 1,
-        "xp": 3,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "acquiredAt": 1758742859991
-      },
-      "20976": {
-        "owned": true,
-        "level": 1,
-        "xp": 3,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "acquiredAt": 1758742919764
-      },
-      "25005": {
-        "owned": true,
-        "level": 1,
-        "xp": 3,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "acquiredAt": 1758742889261
-      },
-      "41600": {
-        "owned": true,
-        "level": 1,
-        "xp": 3,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "acquiredAt": 1758742873436
-      },
-      "42140": {
-        "owned": true,
-        "level": 1,
-        "xp": 3,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "acquiredAt": 1758742899539
-      },
-      "46544": {
-        "owned": true,
-        "level": 1,
-        "xp": 3,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "acquiredAt": 1758742892091
-      },
-      "47241": {
-        "owned": true,
-        "level": 1,
-        "xp": 3,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "acquiredAt": 1758742916518
-      },
-      "64743": {
-        "owned": true,
-        "level": 1,
-        "xp": 3,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "acquiredAt": 1758742869789
-      },
-      "68133": {
-        "owned": true,
-        "level": 1,
-        "xp": 3,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "acquiredAt": 1758742896432
-      },
-      "73814": {
-        "owned": true,
-        "level": 1,
-        "xp": 3,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "acquiredAt": 1758742903578
-      }
-    },
-    "wishlist": [
-      "73815",
-      "73813",
-      "73812"
-    ],
+    "points": 0,
+    "power": 0,
+    "collection": {},
+    "wishlist": [],
     "upgrades": {},
     "hangouts": 0,
     "ability_checks": 3,
     "total_ability_checks_used": 0,
     "tutorial_completed": true,
     "tutorial_completed_at": null,
-    "stats": {
-      "19283": {
-        "level": 1,
-        "xp": 3,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "stats": {
-          "HP": 85,
-          "MP": 45,
-          "ATK": 13,
-          "DEF": 18,
-          "MAG": 9,
-          "LUK": 2
-        }
-      },
-      "20976": {
-        "level": 1,
-        "xp": 3,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "stats": {
-          "HP": 133,
-          "MP": 83,
-          "ATK": 8,
-          "DEF": 10,
-          "MAG": 9,
-          "LUK": 8
-        }
-      },
-      "25005": {
-        "level": 1,
-        "xp": 3,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "stats": {
-          "HP": 126,
-          "MP": 51,
-          "ATK": 12,
-          "DEF": 18,
-          "MAG": 13,
-          "LUK": 9
-        }
-      },
-      "41600": {
-        "level": 1,
-        "xp": 3,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "stats": {
-          "HP": 123,
-          "MP": 110,
-          "ATK": 16,
-          "DEF": 14,
-          "MAG": 13,
-          "LUK": 5
-        }
-      },
-      "42140": {
-        "level": 1,
-        "xp": 3,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "stats": {
-          "HP": 102,
-          "MP": 67,
-          "ATK": 12,
-          "DEF": 14,
-          "MAG": 14,
-          "LUK": 6
-        }
-      },
-      "46544": {
-        "level": 1,
-        "xp": 3,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "stats": {
-          "HP": 149,
-          "MP": 118,
-          "ATK": 17,
-          "DEF": 11,
-          "MAG": 19,
-          "LUK": 10
-        }
-      },
-      "47241": {
-        "level": 1,
-        "xp": 3,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "stats": {
-          "HP": 135,
-          "MP": 47,
-          "ATK": 16,
-          "DEF": 13,
-          "MAG": 8,
-          "LUK": 9
-        }
-      },
-      "64743": {
-        "level": 1,
-        "xp": 3,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "stats": {
-          "HP": 94,
-          "MP": 64,
-          "ATK": 17,
-          "DEF": 15,
-          "MAG": 9,
-          "LUK": 1
-        }
-      },
-      "68133": {
-        "level": 1,
-        "xp": 3,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "stats": {
-          "HP": 93,
-          "MP": 86,
-          "ATK": 17,
-          "DEF": 11,
-          "MAG": 9,
-          "LUK": 6
-        }
-      },
-      "73814": {
-        "level": 1,
-        "xp": 3,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "stats": {
-          "HP": 133,
-          "MP": 107,
-          "ATK": 18,
-          "DEF": 11,
-          "MAG": 9,
-          "LUK": 3
-        }
-      }
-    },
+    "stats": {},
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-09-24T19:44:02.502Z"
+      "last_update_at": "2025-09-24T19:46:53.885Z"
     }
   }
 }

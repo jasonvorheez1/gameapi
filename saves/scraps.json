@@ -1,20 +1,20 @@
 {
   "username": "scraps",
-  "saved_at": "2025-09-24T04:44:23.059Z",
+  "saved_at": "2025-09-24T04:46:25.648Z",
   "meta": {
     "version": 1
   },
   "data": {
-    "id": "d58e62ea-9605-4e3c-b3b2-63ef902081ef",
+    "id": "11964a8e-a514-47a2-9de2-dc61a04c6b36",
     "shards": 200027065,
     "shards_by_rarity": {
       "Epic": 5506746,
       "Rare": 9803,
-      "Common": 1850948,
+      "Common": 1850921,
       "Legendary": 9177573
     },
-    "points": 994932986,
-    "power": 83550,
+    "points": 994932701,
+    "power": 83515,
     "collection": {
       "121": {
         "owned": true,
@@ -245,16 +245,6 @@
           "stage": 1
         },
         "acquiredAt": 1758660700269
-      },
-      "9772": {
-        "owned": true,
-        "level": 1,
-        "xp": 143,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "acquiredAt": 1758688684694
       },
       "10888": {
         "owned": true,
@@ -907,7 +897,7 @@
       "powerRollPowerLevel": 30,
       "powerRollAmountLevel": 85
     },
-    "hangouts": 19,
+    "hangouts": 18,
     "ability_checks": 0,
     "total_ability_checks_used": 3,
     "tutorial_completed": true,
@@ -1279,22 +1269,6 @@
           "DEF": 15,
           "MAG": 12,
           "LUK": 3
-        }
-      },
-      "9772": {
-        "level": 1,
-        "xp": 143,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "stats": {
-          "HP": 102,
-          "MP": 72,
-          "ATK": 20,
-          "DEF": 15,
-          "MAG": 15,
-          "LUK": 2
         }
       },
       "10888": {
@@ -2274,7 +2248,7 @@
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-09-24T04:44:23.059Z"
+      "last_update_at": "2025-09-24T04:46:25.648Z"
     }
   }
 }

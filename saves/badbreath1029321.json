@@ -1,6 +1,6 @@
 {
   "username": "badbreath1029321",
-  "saved_at": "2025-09-24T05:08:37.947Z",
+  "saved_at": "2025-09-24T05:09:59.868Z",
   "meta": {
     "version": 1
   },
@@ -10,11 +10,11 @@
     "shards_by_rarity": {
       "Epic": 5506590,
       "Rare": 7569,
-      "Common": 11136,
+      "Common": 14186,
       "Legendary": 9177573
     },
-    "points": 994934574,
-    "power": 74660,
+    "points": 494853764,
+    "power": 75216,
     "collection": {
       "121": {
         "owned": true,
@@ -616,6 +616,16 @@
         },
         "acquiredAt": 1758660700269
       },
+      "65360": {
+        "owned": true,
+        "level": 1,
+        "xp": 192,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "acquiredAt": 1758690549383
+      },
       "67672": {
         "owned": true,
         "level": 1,
@@ -689,7 +699,7 @@
       "73822": {
         "owned": true,
         "level": 60,
-        "xp": 6112,
+        "xp": 13416,
         "rarityTier": {
           "tier": "Rare",
           "stage": 1
@@ -733,7 +743,7 @@
       "powerRollAmountLevel": 136
     },
     "hangouts": 14,
-    "ability_checks": 0,
+    "ability_checks": 1,
     "total_ability_checks_used": 3,
     "tutorial_completed": true,
     "tutorial_completed_at": null,
@@ -1663,6 +1673,22 @@
           "LUK": 8
         }
       },
+      "65360": {
+        "level": 1,
+        "xp": 192,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "stats": {
+          "HP": 123,
+          "MP": 42,
+          "ATK": 15,
+          "DEF": 15,
+          "MAG": 14,
+          "LUK": 4
+        }
+      },
       "67672": {
         "level": 1,
         "xp": 192,
@@ -1777,7 +1803,7 @@
       },
       "73822": {
         "level": 60,
-        "xp": 6112,
+        "xp": 13416,
         "rarityTier": {
           "tier": "Rare",
           "stage": 1
@@ -1795,7 +1821,7 @@
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-09-24T05:08:37.947Z"
+      "last_update_at": "2025-09-24T05:09:59.868Z"
     }
   }
 }

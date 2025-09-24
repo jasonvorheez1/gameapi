@@ -1,11 +1,11 @@
 {
   "username": "scraps",
-  "saved_at": "2025-09-24T01:56:53.082Z",
+  "saved_at": "2025-09-24T02:03:58.148Z",
   "meta": {
     "version": 1
   },
   "data": {
-    "id": "9b3ae116-306c-432e-8874-abb387cb91b1",
+    "id": "e7c07727-2e27-4d44-801b-aaf50b5d29f5",
     "shards": 200027065,
     "shards_by_rarity": {
       "Epic": 5506590,
@@ -144,27 +144,7 @@
           "tier": "Common",
           "stage": 1
         },
-        "acquiredAt": 1758660700269,
-        "revealedAbilities": {
-          "abilities": [
-            {
-              "name": "Ethereal Arts",
-              "type": "ultimate",
-              "rarity": "rare",
-              "statBonus": {
-                "HP": 26,
-                "MP": 16,
-                "ATK": 8,
-                "DEF": 8,
-                "LUK": 4,
-                "MAG": 8
-              },
-              "description": "Weaves arcane energy, boosting ATK & MAG by 15% and DEF by 9%. Enhanced effects when used with thematic abilities. establishing a Mystic Circle that grants Enchanted status to allies (+15% MAG, spell immunity). Synergizes with allied techniques to escalate tempo over extended exchanges."
-            }
-          ],
-          "revealedAt": 1758660998451,
-          "characterClass": "Tactical Vanguard Specialist"
-        }
+        "acquiredAt": 1758660700269
       },
       "7256": {
         "owned": true,

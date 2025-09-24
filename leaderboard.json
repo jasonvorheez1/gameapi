@@ -7,23 +7,39 @@
     },
     {
       "username": "badbreath1029321",
-      "power": 66502,
-      "total_claims": 0
+      "power": 69291,
+      "total_claims": 1
     }
   ],
   "top_claimed": [
     {
       "id": "73822",
-      "claims": 2
+      "claims": 10
+    },
+    {
+      "id": "43740",
+      "claims": 1
+    },
+    {
+      "id": "48293",
+      "claims": 1
     },
     {
       "id": "33605",
       "claims": 1
     },
     {
+      "id": "65360",
+      "claims": 1
+    },
+    {
       "id": "9772",
+      "claims": 1
+    },
+    {
+      "id": "64888",
       "claims": 1
     }
   ],
-  "generated_at": "2025-09-24T05:16:22.002Z"
+  "generated_at": "2025-09-24T19:16:11.078Z"
 }

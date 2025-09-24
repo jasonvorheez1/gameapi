@@ -1,11 +1,11 @@
 {
   "username": "badbreath1029321",
-  "saved_at": "2025-09-24T04:48:47.022Z",
+  "saved_at": "2025-09-24T05:00:16.666Z",
   "meta": {
     "version": 1
   },
   "data": {
-    "id": "2b1946cc-7fc2-4c96-97f8-cba3a820062e",
+    "id": "3ff0ac8a-5f22-4ba4-a8b4-17684b2c22d1",
     "shards": 200027065,
     "shards_by_rarity": {
       "Epic": 5506590,
@@ -13,8 +13,8 @@
       "Common": 1853836,
       "Legendary": 9177573
     },
-    "points": 994934574,
-    "power": 66502,
+    "points": 994899117,
+    "power": 72737,
     "collection": {
       "121": {
         "owned": true,
@@ -720,7 +720,7 @@
       "rollPowerLevel": 16,
       "rollTimerLevel": 13,
       "wishSlotsLevel": 21,
-      "claimPowerLevel": 14,
+      "claimPowerLevel": 20,
       "claimTimerLevel": 13,
       "pointsGainLevel": 16,
       "rollAmountLevel": 15,
@@ -1795,7 +1795,7 @@
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-09-24T04:48:47.022Z"
+      "last_update_at": "2025-09-24T05:00:16.664Z"
     }
   }
 }

@@ -1,20 +1,20 @@
 {
   "username": "badbreath1029321",
-  "saved_at": "2025-09-24T19:07:10.883Z",
+  "saved_at": "2025-09-24T19:08:29.783Z",
   "meta": {
     "version": 1
   },
   "data": {
-    "id": "a91d5fd5-9282-4629-96b9-30bb9f3e2c98",
+    "id": "cca62b6f-f406-43ed-b7c1-dce050d04da6",
     "shards": 200027065,
     "shards_by_rarity": {
       "Epic": 5506590,
       "Rare": 7569,
-      "Common": 11136,
+      "Common": 14132,
       "Legendary": 9177573
     },
-    "points": 494934574,
-    "power": 74724,
+    "points": 494853252,
+    "power": 75248,
     "collection": {
       "121": {
         "owned": true,
@@ -699,7 +699,7 @@
       "73822": {
         "owned": true,
         "level": 60,
-        "xp": 6538,
+        "xp": 13842,
         "rarityTier": {
           "tier": "Rare",
           "stage": 1
@@ -1803,7 +1803,7 @@
       },
       "73822": {
         "level": 60,
-        "xp": 6538,
+        "xp": 13842,
         "rarityTier": {
           "tier": "Rare",
           "stage": 1
@@ -1821,7 +1821,7 @@
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-09-24T19:07:10.883Z"
+      "last_update_at": "2025-09-24T19:08:29.783Z"
     }
   }
 }

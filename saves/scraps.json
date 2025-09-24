@@ -1,11 +1,11 @@
 {
   "username": "scraps",
-  "saved_at": "2025-09-24T04:21:27.782Z",
+  "saved_at": "2025-09-24T04:22:44.239Z",
   "meta": {
     "version": 1
   },
   "data": {
-    "id": "7248f6dc-7361-4684-9b4b-ccddef54f688",
+    "id": "01c4fa41-1f99-4212-803e-09a10a032633",
     "shards": 200027065,
     "shards_by_rarity": {
       "Epic": 5506753,
@@ -2226,6 +2226,11 @@
           "LUK": 2
         }
       }
+    },
+    "update_progress": {
+      "save_version": 3,
+      "migrations_applied": [],
+      "last_update_at": "2025-09-24T04:22:44.239Z"
     }
   }
 }

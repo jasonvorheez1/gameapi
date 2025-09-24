@@ -1,0 +1,33 @@
+{
+  "username": "scraps",
+  "saved_at": "2025-09-24T19:39:57.544Z",
+  "meta": {
+    "version": 1
+  },
+  "data": {
+    "id": "471c9b99-bf9e-4a4f-b46d-bb88cb8880fd",
+    "shards": 0,
+    "shards_by_rarity": {
+      "Common": 0,
+      "Rare": 0,
+      "Epic": 0,
+      "Legendary": 0
+    },
+    "points": 0,
+    "power": 0,
+    "collection": {},
+    "wishlist": [],
+    "upgrades": {},
+    "hangouts": 0,
+    "ability_checks": 3,
+    "total_ability_checks_used": 0,
+    "tutorial_completed": true,
+    "tutorial_completed_at": null,
+    "stats": {},
+    "update_progress": {
+      "save_version": 3,
+      "migrations_applied": [],
+      "last_update_at": "2025-09-24T19:39:57.544Z"
+    }
+  }
+}

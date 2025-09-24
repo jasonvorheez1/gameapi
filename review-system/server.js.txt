@@ -1,0 +1,74 @@
+import express from 'express';
+import fetch from 'node-fetch';
+import dotenv from 'dotenv';
+
+dotenv.config();
+const app = express();
+app.use(express.json());
+
+// Load config from env
+const { GITHUB_TOKEN, GITHUB_USER, GITHUB_REPO } = process.env;
+
+// GitHub helper
+async function pushToGitHub(filePath, content, message) {
+  const url = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/contents/${filePath}`;
+
+  // Get current file SHA (needed if file exists)
+  let sha;
+  const existing = await fetch(url, {
+    headers: { Authorization: `token ${GITHUB_TOKEN}` }
+  });
+  if (existing.ok) {
+    const json = await existing.json();
+    sha = json.sha;
+  }
+
+  // Create or update file
+  const response = await fetch(url, {
+    method: 'PUT',
+    headers: {
+      Authorization: `token ${GITHUB_TOKEN}`,
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+      message,
+      content: Buffer.from(content).toString('base64'),
+      branch: 'main',
+      sha
+    })
+  });
+
+  if (!response.ok) {
+    throw new Error(`GitHub push failed: ${response.statusText}`);
+  }
+
+  return response.json();
+}
+
+// Route: approve item
+app.post('/approve', async (req, res) => {
+  try {
+    const { id, name, data } = req.body;
+
+    const filePath = `approved/${id}.json`;
+    const content = JSON.stringify({ id, name, ...data }, null, 2);
+    const result = await pushToGitHub(filePath, content, `Approve ${name}`);
+
+    res.json({ success: true, result });
+  } catch (err) {
+    console.error('Error:', err);
+    res.status(500).json({ success: false, error: err.message });
+  }
+});
+
+// Route: reject item
+app.post('/reject', (req, res) => {
+  const { id, name } = req.body;
+  console.log(`❌ Rejected item: ${id} (${name})`);
+  res.json({ success: true });
+});
+
+// Start server
+app.listen(3000, () => {
+  console.log('✅ Review server running at http://localhost:3000');
+});

@@ -4,6 +4,11 @@
       "username": "badbreath1029321",
       "power": 66502,
       "total_claims": 0
+    },
+    {
+      "username": "scraps",
+      "power": 0,
+      "total_claims": 0
     }
   ],
   "top_claimed": [
@@ -52,5 +57,5 @@
       "claims": 1
     }
   ],
-  "generated_at": "2025-09-24T19:43:28.558Z"
+  "generated_at": "2025-09-24T19:45:52.515Z"
 }

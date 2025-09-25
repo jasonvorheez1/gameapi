@@ -1,11 +1,6 @@
 {
-  "username": "scraps",
-  "saved_at": "2025-09-25T17:27:45.687Z",
-  "meta": {
-    "version": 1
-  },
   "data": {
-    "id": "150ea234-ada8-4e82-afb2-c0ba7f8079dc",
+    "id": "c7543ad8-1eec-4c5a-9690-87c444d2282c",
     "shards": 0,
     "shards_by_rarity": {
       "Common": 0,
@@ -27,7 +22,11 @@
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-09-25T17:27:45.687Z"
+      "last_update_at": "2025-09-25T20:29:35.231Z"
     }
+  },
+  "meta": {
+    "saved_at": "2025-09-25T20:29:35.231Z",
+    "by": "scraps"
   }
 }

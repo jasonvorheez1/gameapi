@@ -1,6 +1,6 @@
 {
   "data": {
-    "id": "0e817824-b8b9-4a78-a68a-51dd017ce7c4",
+    "id": "0590e4bf-aec1-4a22-a9b6-e3d317b4fc22",
     "shards": 0,
     "shards_by_rarity": {
       "Common": 10,
@@ -9,7 +9,7 @@
       "Legendary": 0
     },
     "points": 66,
-    "power": 165,
+    "power": 195,
     "collection": {
       "19283": {
         "owned": true,
@@ -101,6 +101,16 @@
         },
         "acquiredAt": 1758742896432
       },
+      "73812": {
+        "owned": true,
+        "level": 1,
+        "xp": 3,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "acquiredAt": 1758854542173
+      },
       "73813": {
         "owned": true,
         "level": 1,
@@ -120,6 +130,16 @@
           "stage": 1
         },
         "acquiredAt": 1758742903578
+      },
+      "73815": {
+        "owned": true,
+        "level": 1,
+        "xp": 3,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "acquiredAt": 1758854544165
       }
     },
     "wishlist": [
@@ -278,6 +298,22 @@
           "LUK": 6
         }
       },
+      "73812": {
+        "level": 1,
+        "xp": 3,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "stats": {
+          "HP": 97,
+          "MP": 45,
+          "ATK": 13,
+          "DEF": 12,
+          "MAG": 19,
+          "LUK": 5
+        }
+      },
       "73813": {
         "level": 1,
         "xp": 3,
@@ -309,16 +345,32 @@
           "MAG": 9,
           "LUK": 3
         }
+      },
+      "73815": {
+        "level": 1,
+        "xp": 3,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "stats": {
+          "HP": 91,
+          "MP": 109,
+          "ATK": 15,
+          "DEF": 14,
+          "MAG": 13,
+          "LUK": 2
+        }
       }
     },
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-09-26T02:41:53.294Z"
+      "last_update_at": "2025-09-26T02:42:52.427Z"
     }
   },
   "meta": {
-    "saved_at": "2025-09-26T02:41:53.294Z",
+    "saved_at": "2025-09-26T02:42:52.427Z",
     "by": "badbreath1029321"
   }
 }

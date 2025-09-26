@@ -8,7 +8,7 @@
       "Epic": 0,
       "Legendary": 0
     },
-    "points": 84,
+    "points": 284,
     "power": 555,
     "collection": {
       "2424": {
@@ -388,7 +388,7 @@
       "73812"
     ],
     "upgrades": {
-      "points": 250,
+      "points": 284,
       "wishChanceLevel": 1
     },
     "hangouts": 0,
@@ -993,11 +993,11 @@
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-09-26T14:31:39.814Z"
+      "last_update_at": "2025-09-26T14:32:40.933Z"
     }
   },
   "meta": {
-    "saved_at": "2025-09-26T14:31:39.814Z",
+    "saved_at": "2025-09-26T14:32:40.933Z",
     "by": "badbreath1029321"
   }
 }

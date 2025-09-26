@@ -1,11 +1,6 @@
 {
-  "username": "badbreath1029321",
-  "saved_at": "2025-09-24T20:14:52.125Z",
-  "meta": {
-    "version": 1
-  },
   "data": {
-    "id": "9d8a3b7c-8fcc-497f-9bca-1a3a877788d0",
+    "id": "450cb847-111a-4b21-857c-b478249fdc08",
     "shards": 0,
     "shards_by_rarity": {
       "Common": 9,
@@ -136,14 +131,7 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": {
-          "HP": 85,
-          "MP": 45,
-          "ATK": 13,
-          "DEF": 18,
-          "MAG": 9,
-          "LUK": 2
-        }
+        "stats": null
       },
       "20976": {
         "level": 1,
@@ -152,14 +140,7 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": {
-          "HP": 133,
-          "MP": 83,
-          "ATK": 8,
-          "DEF": 10,
-          "MAG": 9,
-          "LUK": 8
-        }
+        "stats": null
       },
       "25005": {
         "level": 1,
@@ -168,14 +149,7 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": {
-          "HP": 126,
-          "MP": 51,
-          "ATK": 12,
-          "DEF": 18,
-          "MAG": 13,
-          "LUK": 9
-        }
+        "stats": null
       },
       "41600": {
         "level": 1,
@@ -184,14 +158,7 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": {
-          "HP": 123,
-          "MP": 110,
-          "ATK": 16,
-          "DEF": 14,
-          "MAG": 13,
-          "LUK": 5
-        }
+        "stats": null
       },
       "42140": {
         "level": 1,
@@ -200,14 +167,7 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": {
-          "HP": 102,
-          "MP": 67,
-          "ATK": 12,
-          "DEF": 14,
-          "MAG": 14,
-          "LUK": 6
-        }
+        "stats": null
       },
       "46544": {
         "level": 1,
@@ -216,14 +176,7 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": {
-          "HP": 149,
-          "MP": 118,
-          "ATK": 17,
-          "DEF": 11,
-          "MAG": 19,
-          "LUK": 10
-        }
+        "stats": null
       },
       "47241": {
         "level": 1,
@@ -232,14 +185,7 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": {
-          "HP": 135,
-          "MP": 47,
-          "ATK": 16,
-          "DEF": 13,
-          "MAG": 8,
-          "LUK": 9
-        }
+        "stats": null
       },
       "64743": {
         "level": 1,
@@ -248,14 +194,7 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": {
-          "HP": 94,
-          "MP": 64,
-          "ATK": 17,
-          "DEF": 15,
-          "MAG": 9,
-          "LUK": 1
-        }
+        "stats": null
       },
       "68133": {
         "level": 1,
@@ -264,14 +203,7 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": {
-          "HP": 93,
-          "MP": 86,
-          "ATK": 17,
-          "DEF": 11,
-          "MAG": 9,
-          "LUK": 6
-        }
+        "stats": null
       },
       "73814": {
         "level": 1,
@@ -280,20 +212,17 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": {
-          "HP": 133,
-          "MP": 107,
-          "ATK": 18,
-          "DEF": 11,
-          "MAG": 9,
-          "LUK": 3
-        }
+        "stats": null
       }
     },
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-09-24T20:14:52.125Z"
+      "last_update_at": "2025-09-26T02:08:05.732Z"
     }
+  },
+  "meta": {
+    "saved_at": "2025-09-26T02:08:05.732Z",
+    "by": "badbreath1029321"
   }
 }

@@ -1,6 +1,6 @@
 {
   "data": {
-    "id": "e3ccc28c-5547-4c1d-b48e-0edc3500a046",
+    "id": "15e3084f-2b7d-4225-8db5-64cf820c3e4e",
     "shards": 0,
     "shards_by_rarity": {
       "Common": 3,
@@ -9,7 +9,7 @@
       "Legendary": 0
     },
     "points": 33,
-    "power": 375,
+    "power": 405,
     "collection": {
       "2424": {
         "owned": true,
@@ -30,6 +30,16 @@
           "stage": 1
         },
         "acquiredAt": 1758894529900
+      },
+      "3446": {
+        "owned": true,
+        "level": 1,
+        "xp": 7,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "acquiredAt": 1758899079754
       },
       "4062": {
         "owned": true,
@@ -140,6 +150,16 @@
           "stage": 1
         },
         "acquiredAt": 1758864580407
+      },
+      "31482": {
+        "owned": true,
+        "level": 1,
+        "xp": 7,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "acquiredAt": 1758899078038
       },
       "32939": {
         "owned": true,
@@ -303,6 +323,22 @@
           "DEF": 16,
           "MAG": 11,
           "LUK": 8
+        }
+      },
+      "3446": {
+        "level": 1,
+        "xp": 7,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "stats": {
+          "HP": 94,
+          "MP": 95,
+          "ATK": 10,
+          "DEF": 10,
+          "MAG": 10,
+          "LUK": 9
         }
       },
       "4062": {
@@ -478,6 +514,22 @@
           "ATK": 8,
           "DEF": 9,
           "MAG": 11,
+          "LUK": 10
+        }
+      },
+      "31482": {
+        "level": 1,
+        "xp": 7,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "stats": {
+          "HP": 121,
+          "MP": 102,
+          "ATK": 13,
+          "DEF": 17,
+          "MAG": 17,
           "LUK": 10
         }
       },
@@ -677,11 +729,11 @@
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-09-26T15:06:28.752Z"
+      "last_update_at": "2025-09-26T15:06:54.478Z"
     }
   },
   "meta": {
-    "saved_at": "2025-09-26T15:06:28.752Z",
+    "saved_at": "2025-09-26T15:06:54.478Z",
     "by": "scraps"
   }
 }

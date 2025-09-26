@@ -1,15 +1,15 @@
 {
   "data": {
-    "id": "e3ccc28c-5547-4c1d-b48e-0edc3500a046",
+    "id": "6f9afbad-8750-463d-9e9c-aa4ce7b2b9ca",
     "shards": 0,
     "shards_by_rarity": {
-      "Common": 3,
-      "Rare": 2,
+      "Common": 7,
+      "Rare": 4,
       "Epic": 0,
       "Legendary": 0
     },
-    "points": 33,
-    "power": 375,
+    "points": 79,
+    "power": 405,
     "collection": {
       "2424": {
         "owned": true,
@@ -30,6 +30,16 @@
           "stage": 1
         },
         "acquiredAt": 1758894529900
+      },
+      "3446": {
+        "owned": true,
+        "level": 1,
+        "xp": 7,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "acquiredAt": 1758899079754
       },
       "4062": {
         "owned": true,
@@ -141,6 +151,16 @@
         },
         "acquiredAt": 1758864580407
       },
+      "31482": {
+        "owned": true,
+        "level": 1,
+        "xp": 7,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "acquiredAt": 1758899078038
+      },
       "32939": {
         "owned": true,
         "level": 1,
@@ -194,7 +214,7 @@
       "48732": {
         "owned": true,
         "level": 1,
-        "xp": 9,
+        "xp": 16,
         "rarityTier": {
           "tier": "Common",
           "stage": 1
@@ -303,6 +323,22 @@
           "DEF": 16,
           "MAG": 11,
           "LUK": 8
+        }
+      },
+      "3446": {
+        "level": 1,
+        "xp": 7,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "stats": {
+          "HP": 94,
+          "MP": 95,
+          "ATK": 10,
+          "DEF": 10,
+          "MAG": 10,
+          "LUK": 9
         }
       },
       "4062": {
@@ -481,6 +517,22 @@
           "LUK": 10
         }
       },
+      "31482": {
+        "level": 1,
+        "xp": 7,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "stats": {
+          "HP": 121,
+          "MP": 102,
+          "ATK": 13,
+          "DEF": 17,
+          "MAG": 17,
+          "LUK": 10
+        }
+      },
       "32939": {
         "level": 1,
         "xp": 3,
@@ -563,7 +615,7 @@
       },
       "48732": {
         "level": 1,
-        "xp": 9,
+        "xp": 16,
         "rarityTier": {
           "tier": "Common",
           "stage": 1
@@ -677,11 +729,11 @@
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-09-26T15:05:17.136Z"
+      "last_update_at": "2025-09-26T15:05:29.042Z"
     }
   },
   "meta": {
-    "saved_at": "2025-09-26T15:05:17.136Z",
+    "saved_at": "2025-09-26T15:05:29.042Z",
     "by": "scraps"
   }
 }

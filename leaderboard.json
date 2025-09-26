@@ -1,16 +1,5 @@
 {
-  "top_players": [
-    {
-      "username": "badbreath1029321",
-      "power": 66502,
-      "total_claims": 0
-    },
-    {
-      "username": "scraps",
-      "power": 0,
-      "total_claims": 0
-    }
-  ],
+  "top_players": [],
   "top_claimed": [
     {
       "id": "73812",
@@ -21,8 +10,8 @@
       "claims": 2
     },
     {
-      "id": "24760",
-      "claims": 1
+      "id": "9951",
+      "claims": 2
     },
     {
       "id": "25005",
@@ -49,7 +38,7 @@
       "claims": 1
     },
     {
-      "id": "57801",
+      "id": "19283",
       "claims": 1
     },
     {
@@ -65,17 +54,25 @@
       "claims": 1
     },
     {
-      "id": "19283",
+      "id": "73815",
       "claims": 1
     },
     {
-      "id": "73815",
+      "id": "8363",
+      "claims": 1
+    },
+    {
+      "id": "57801",
       "claims": 1
     },
     {
       "id": "20976",
       "claims": 1
+    },
+    {
+      "id": "24760",
+      "claims": 1
     }
   ],
-  "generated_at": "2025-09-26T04:48:58.849Z"
+  "generated_at": "2025-09-26T04:54:13.391Z"
 }

@@ -131,7 +131,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 85,
+          "MP": 45,
+          "ATK": 13,
+          "DEF": 18,
+          "MAG": 9,
+          "LUK": 2
+        }
       },
       "20976": {
         "level": 1,
@@ -140,7 +147,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 133,
+          "MP": 83,
+          "ATK": 8,
+          "DEF": 10,
+          "MAG": 9,
+          "LUK": 8
+        }
       },
       "25005": {
         "level": 1,
@@ -149,7 +163,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 126,
+          "MP": 51,
+          "ATK": 12,
+          "DEF": 18,
+          "MAG": 13,
+          "LUK": 9
+        }
       },
       "41600": {
         "level": 1,
@@ -158,7 +179,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 123,
+          "MP": 110,
+          "ATK": 16,
+          "DEF": 14,
+          "MAG": 13,
+          "LUK": 5
+        }
       },
       "42140": {
         "level": 1,
@@ -167,7 +195,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 102,
+          "MP": 67,
+          "ATK": 12,
+          "DEF": 14,
+          "MAG": 14,
+          "LUK": 6
+        }
       },
       "46544": {
         "level": 1,
@@ -176,7 +211,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 149,
+          "MP": 118,
+          "ATK": 17,
+          "DEF": 11,
+          "MAG": 19,
+          "LUK": 10
+        }
       },
       "47241": {
         "level": 1,
@@ -185,7 +227,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 135,
+          "MP": 47,
+          "ATK": 16,
+          "DEF": 13,
+          "MAG": 8,
+          "LUK": 9
+        }
       },
       "64743": {
         "level": 1,
@@ -194,7 +243,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 94,
+          "MP": 64,
+          "ATK": 17,
+          "DEF": 15,
+          "MAG": 9,
+          "LUK": 1
+        }
       },
       "68133": {
         "level": 1,
@@ -203,7 +259,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 93,
+          "MP": 86,
+          "ATK": 17,
+          "DEF": 11,
+          "MAG": 9,
+          "LUK": 6
+        }
       },
       "73814": {
         "level": 1,
@@ -212,17 +275,24 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 133,
+          "MP": 107,
+          "ATK": 18,
+          "DEF": 11,
+          "MAG": 9,
+          "LUK": 3
+        }
       }
     },
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-09-26T02:10:56.863Z"
+      "last_update_at": "2025-09-26T02:11:57.981Z"
     }
   },
   "meta": {
-    "saved_at": "2025-09-26T02:10:56.863Z",
+    "saved_at": "2025-09-26T02:11:57.981Z",
     "by": "badbreath1029321"
   }
 }

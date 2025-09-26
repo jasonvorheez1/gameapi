@@ -1,37 +1,16 @@
 {
   "data": {
-    "id": "36b9bb97-d791-439b-b670-6b3bdb17f04e",
+    "id": "fc7efcd2-7619-4d2b-afc9-0cded5bfb0bd",
     "shards": 0,
     "shards_by_rarity": {
-      "Common": 2,
+      "Common": 0,
       "Rare": 0,
-      "Epic": 2,
+      "Epic": 0,
       "Legendary": 0
     },
-    "points": 28,
-    "power": 30,
-    "collection": {
-      "8363": {
-        "owned": true,
-        "level": 1,
-        "xp": 3,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "acquiredAt": 1758857600369
-      },
-      "9951": {
-        "owned": true,
-        "level": 1,
-        "xp": 10,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "acquiredAt": 1758856763801
-      }
-    },
+    "points": 0,
+    "power": 0,
+    "collection": {},
     "wishlist": [],
     "upgrades": {},
     "hangouts": 0,
@@ -39,48 +18,15 @@
     "total_ability_checks_used": 0,
     "tutorial_completed": true,
     "tutorial_completed_at": null,
-    "stats": {
-      "8363": {
-        "level": 1,
-        "xp": 3,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "stats": {
-          "HP": 99,
-          "MP": 55,
-          "ATK": 15,
-          "DEF": 12,
-          "MAG": 11,
-          "LUK": 9
-        }
-      },
-      "9951": {
-        "level": 1,
-        "xp": 10,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "stats": {
-          "HP": 141,
-          "MP": 33,
-          "ATK": 20,
-          "DEF": 12,
-          "MAG": 14,
-          "LUK": 7
-        }
-      }
-    },
+    "stats": {},
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-09-26T03:47:48.989Z"
+      "last_update_at": "2025-09-26T03:48:28.851Z"
     }
   },
   "meta": {
-    "saved_at": "2025-09-26T03:47:48.989Z",
+    "saved_at": "2025-09-26T03:48:28.851Z",
     "by": "scraps"
   }
 }

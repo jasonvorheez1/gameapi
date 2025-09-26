@@ -1,15 +1,15 @@
 {
   "data": {
-    "id": "414762d7-3c1f-42ec-811d-84dc406eecc3",
+    "id": "659620cf-cb21-43d6-a550-f7d81a34039c",
     "shards": 0,
     "shards_by_rarity": {
-      "Common": 3,
+      "Common": 5,
       "Rare": 2,
-      "Epic": 0,
+      "Epic": 2,
       "Legendary": 0
     },
-    "points": 33,
-    "power": 405,
+    "points": 66,
+    "power": 420,
     "collection": {
       "2424": {
         "owned": true,
@@ -81,6 +81,16 @@
         },
         "acquiredAt": 1758856763801
       },
+      "9971": {
+        "owned": true,
+        "level": 1,
+        "xp": 7,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "acquiredAt": 1758901864551
+      },
       "13079": {
         "owned": true,
         "level": 1,
@@ -114,7 +124,7 @@
       "21929": {
         "owned": true,
         "level": 1,
-        "xp": 3,
+        "xp": 11,
         "rarityTier": {
           "tier": "Common",
           "stage": 1
@@ -287,7 +297,7 @@
       "points": 250,
       "wishChanceLevel": 1
     },
-    "hangouts": 0,
+    "hangouts": 1,
     "ability_checks": 3,
     "total_ability_checks_used": 0,
     "tutorial_completed": true,
@@ -405,6 +415,22 @@
           "LUK": 7
         }
       },
+      "9971": {
+        "level": 1,
+        "xp": 7,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "stats": {
+          "HP": 134,
+          "MP": 41,
+          "ATK": 11,
+          "DEF": 17,
+          "MAG": 19,
+          "LUK": 3
+        }
+      },
       "13079": {
         "level": 1,
         "xp": 3,
@@ -455,7 +481,7 @@
       },
       "21929": {
         "level": 1,
-        "xp": 3,
+        "xp": 11,
         "rarityTier": {
           "tier": "Common",
           "stage": 1
@@ -729,11 +755,11 @@
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-09-26T15:54:06.035Z"
+      "last_update_at": "2025-09-26T15:54:50.280Z"
     }
   },
   "meta": {
-    "saved_at": "2025-09-26T15:54:06.036Z",
+    "saved_at": "2025-09-26T15:54:50.280Z",
     "by": "scraps"
   }
 }

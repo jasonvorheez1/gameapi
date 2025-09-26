@@ -1,27 +1,16 @@
 {
   "data": {
-    "id": "34364a8b-c5d9-4869-ab14-815ae508a828",
+    "id": "fc7efcd2-7619-4d2b-afc9-0cded5bfb0bd",
     "shards": 0,
     "shards_by_rarity": {
-      "Common": 1,
+      "Common": 0,
       "Rare": 0,
-      "Epic": 2,
+      "Epic": 0,
       "Legendary": 0
     },
-    "points": 22,
-    "power": 15,
-    "collection": {
-      "9951": {
-        "owned": true,
-        "level": 1,
-        "xp": 10,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "acquiredAt": 1758856763801
-      }
-    },
+    "points": 0,
+    "power": 0,
+    "collection": {},
     "wishlist": [],
     "upgrades": {},
     "hangouts": 0,
@@ -29,32 +18,15 @@
     "total_ability_checks_used": 0,
     "tutorial_completed": true,
     "tutorial_completed_at": null,
-    "stats": {
-      "9951": {
-        "level": 1,
-        "xp": 10,
-        "rarityTier": {
-          "tier": "Common",
-          "stage": 1
-        },
-        "stats": {
-          "HP": 141,
-          "MP": 33,
-          "ATK": 20,
-          "DEF": 12,
-          "MAG": 14,
-          "LUK": 7
-        }
-      }
-    },
+    "stats": {},
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-09-26T03:32:48.956Z"
+      "last_update_at": "2025-09-26T03:32:59.169Z"
     }
   },
   "meta": {
-    "saved_at": "2025-09-26T03:32:48.956Z",
+    "saved_at": "2025-09-26T03:32:59.169Z",
     "by": "scraps"
   }
 }

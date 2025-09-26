@@ -252,7 +252,9 @@
         "acquiredAt": 1758864559616
       }
     },
-    "wishlist": [],
+    "wishlist": [
+      "73822"
+    ],
     "upgrades": {
       "points": 250,
       "wishChanceLevel": 1
@@ -651,11 +653,11 @@
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-09-26T14:38:47.985Z"
+      "last_update_at": "2025-09-26T14:39:47.055Z"
     }
   },
   "meta": {
-    "saved_at": "2025-09-26T14:38:47.986Z",
+    "saved_at": "2025-09-26T14:39:47.055Z",
     "by": "scraps"
   }
 }

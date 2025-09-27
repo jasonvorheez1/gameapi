@@ -1,6 +1,6 @@
 {
   "data": {
-    "id": "e01db3ae-6a61-49f3-87da-f172f178214a",
+    "id": "09e1039e-7e0e-4366-8bfb-7dc19ecbc4c1",
     "shards": 0,
     "shards_by_rarity": {
       "Common": 9,
@@ -315,7 +315,13 @@
     "wishlist": [],
     "upgrades": {
       "points": 250,
-      "wishChanceLevel": 1
+      "wishChanceLevel": 1,
+      "contrib": {
+        "2025-09-27": {
+          "used": 2,
+          "bonus": 1
+        }
+      }
     },
     "hangouts": 1,
     "ability_checks": 3,
@@ -807,11 +813,11 @@
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-09-27T12:27:54.539Z"
+      "last_update_at": "2025-09-27T12:30:50.877Z"
     }
   },
   "meta": {
-    "saved_at": "2025-09-27T12:27:54.539Z",
+    "saved_at": "2025-09-27T12:30:50.877Z",
     "by": "scraps"
   }
 }

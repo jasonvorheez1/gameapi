@@ -1,15 +1,15 @@
 {
   "data": {
-    "id": "3613a140-4c0e-48ba-831d-3d330a307fb5",
+    "id": "917d70ec-705c-482f-b0fd-51eb965a3322",
     "shards": 0,
     "shards_by_rarity": {
       "Common": 13,
       "Rare": 1,
-      "Epic": 0,
+      "Epic": 1,
       "Legendary": 0
     },
-    "points": 284,
-    "power": 570,
+    "points": 291,
+    "power": 585,
     "collection": {
       "2424": {
         "owned": true,
@@ -50,6 +50,16 @@
           "stage": 1
         },
         "acquiredAt": 1758862510863
+      },
+      "7976": {
+        "owned": true,
+        "level": 1,
+        "xp": 3,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "acquiredAt": 1758926466456
       },
       "8363": {
         "owned": true,
@@ -469,6 +479,22 @@
           "DEF": 12,
           "MAG": 11,
           "LUK": 3
+        }
+      },
+      "7976": {
+        "level": 1,
+        "xp": 3,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "stats": {
+          "HP": 135,
+          "MP": 56,
+          "ATK": 20,
+          "DEF": 6,
+          "MAG": 8,
+          "LUK": 8
         }
       },
       "8363": {
@@ -1019,11 +1045,11 @@
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-09-27T01:51:02.658Z"
+      "last_update_at": "2025-09-27T01:51:18.708Z"
     }
   },
   "meta": {
-    "saved_at": "2025-09-27T01:51:02.659Z",
+    "saved_at": "2025-09-27T01:51:18.708Z",
     "by": "badbreath1029321"
   }
 }

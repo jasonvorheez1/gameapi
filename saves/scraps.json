@@ -1,6 +1,6 @@
 {
   "data": {
-    "id": "f29529a0-0a3f-437c-8209-09bc94d68a98",
+    "id": "a5e83a79-06cc-44fb-8c46-5c24a5b5d7fe",
     "shards": 0,
     "shards_by_rarity": {
       "Common": 5,
@@ -311,7 +311,7 @@
     "ability_checks": 3,
     "total_ability_checks_used": 0,
     "tutorial_completed": true,
-    "tutorial_completed_at": null,
+    "tutorial_completed_at": "2025-09-24T19:40:14.655Z",
     "stats": {
       "2424": {
         "level": 1,
@@ -781,11 +781,11 @@
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-09-27T04:44:48.816Z"
+      "last_update_at": "2025-09-27T04:46:23.194Z"
     }
   },
   "meta": {
-    "saved_at": "2025-09-27T04:44:48.816Z",
+    "saved_at": "2025-09-27T04:46:23.194Z",
     "by": "scraps"
   }
 }

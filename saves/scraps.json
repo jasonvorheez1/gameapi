@@ -1,20 +1,20 @@
 {
   "data": {
-    "id": "003699c1-8b2e-42ef-b244-097344eef2d8",
+    "id": "e01db3ae-6a61-49f3-87da-f172f178214a",
     "shards": 0,
     "shards_by_rarity": {
-      "Common": 8,
-      "Rare": 4,
+      "Common": 9,
+      "Rare": 3,
       "Epic": 2,
       "Legendary": 0
     },
-    "points": 316,
-    "power": 435,
+    "points": 101,
+    "power": 450,
     "collection": {
       "2424": {
         "owned": true,
         "level": 1,
-        "xp": 6,
+        "xp": 3,
         "rarityTier": {
           "tier": "Common",
           "stage": 1
@@ -24,7 +24,7 @@
       "2959": {
         "owned": true,
         "level": 1,
-        "xp": 9,
+        "xp": 6,
         "rarityTier": {
           "tier": "Common",
           "stage": 1
@@ -114,7 +114,7 @@
       "15693": {
         "owned": true,
         "level": 1,
-        "xp": 3,
+        "xp": 6,
         "rarityTier": {
           "tier": "Common",
           "stage": 1
@@ -154,7 +154,7 @@
       "24016": {
         "owned": true,
         "level": 1,
-        "xp": 6,
+        "xp": 3,
         "rarityTier": {
           "tier": "Common",
           "stage": 1
@@ -274,12 +274,22 @@
       "66553": {
         "owned": true,
         "level": 1,
-        "xp": 6,
+        "xp": 3,
         "rarityTier": {
           "tier": "Common",
           "stage": 1
         },
         "acquiredAt": 1758863917082
+      },
+      "67874": {
+        "owned": true,
+        "level": 1,
+        "xp": 11,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "acquiredAt": 1758950556531
       },
       "71247": {
         "owned": true,
@@ -304,7 +314,7 @@
     },
     "wishlist": [],
     "upgrades": {
-      "points": 286,
+      "points": 250,
       "wishChanceLevel": 1
     },
     "hangouts": 1,
@@ -315,7 +325,7 @@
     "stats": {
       "2424": {
         "level": 1,
-        "xp": 6,
+        "xp": 3,
         "rarityTier": {
           "tier": "Common",
           "stage": 1
@@ -331,7 +341,7 @@
       },
       "2959": {
         "level": 1,
-        "xp": 9,
+        "xp": 6,
         "rarityTier": {
           "tier": "Common",
           "stage": 1
@@ -475,7 +485,7 @@
       },
       "15693": {
         "level": 1,
-        "xp": 3,
+        "xp": 6,
         "rarityTier": {
           "tier": "Common",
           "stage": 1
@@ -539,7 +549,7 @@
       },
       "24016": {
         "level": 1,
-        "xp": 6,
+        "xp": 3,
         "rarityTier": {
           "tier": "Common",
           "stage": 1
@@ -731,7 +741,7 @@
       },
       "66553": {
         "level": 1,
-        "xp": 6,
+        "xp": 3,
         "rarityTier": {
           "tier": "Common",
           "stage": 1
@@ -743,6 +753,22 @@
           "DEF": 6,
           "MAG": 9,
           "LUK": 6
+        }
+      },
+      "67874": {
+        "level": 1,
+        "xp": 11,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "stats": {
+          "HP": 136,
+          "MP": 51,
+          "ATK": 8,
+          "DEF": 11,
+          "MAG": 15,
+          "LUK": 9
         }
       },
       "71247": {
@@ -781,11 +807,11 @@
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-09-27T05:33:43.768Z"
+      "last_update_at": "2025-09-27T05:34:55.741Z"
     }
   },
   "meta": {
-    "saved_at": "2025-09-27T05:33:43.768Z",
+    "saved_at": "2025-09-27T05:34:55.741Z",
     "by": "scraps"
   }
 }

@@ -1,6 +1,6 @@
 {
   "data": {
-    "id": "db93f492-4168-4f7e-a919-7be5758941ba",
+    "id": "5ce17462-d814-4cc5-9145-e585a7e99cc0",
     "shards": 0,
     "shards_by_rarity": {
       "Common": 5,
@@ -9,7 +9,7 @@
       "Legendary": 0
     },
     "points": 66,
-    "power": 450,
+    "power": 495,
     "collection": {
       "2424": {
         "owned": true,
@@ -71,6 +71,16 @@
         },
         "acquiredAt": 1758857600369
       },
+      "8792": {
+        "owned": true,
+        "level": 1,
+        "xp": 3,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "acquiredAt": 1759099545124
+      },
       "9951": {
         "owned": true,
         "level": 1,
@@ -100,6 +110,16 @@
           "stage": 1
         },
         "acquiredAt": 1758862530419
+      },
+      "13146": {
+        "owned": true,
+        "level": 1,
+        "xp": 3,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "acquiredAt": 1759099551239
       },
       "13884": {
         "owned": true,
@@ -230,6 +250,16 @@
           "stage": 1
         },
         "acquiredAt": 1758862524268
+      },
+      "48573": {
+        "owned": true,
+        "level": 1,
+        "xp": 3,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "acquiredAt": 1759099549074
       },
       "48732": {
         "owned": true,
@@ -425,6 +455,22 @@
           "LUK": 9
         }
       },
+      "8792": {
+        "level": 1,
+        "xp": 3,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "stats": {
+          "HP": 142,
+          "MP": 116,
+          "ATK": 12,
+          "DEF": 10,
+          "MAG": 11,
+          "LUK": 9
+        }
+      },
       "9951": {
         "level": 1,
         "xp": 10,
@@ -471,6 +517,22 @@
           "DEF": 6,
           "MAG": 17,
           "LUK": 1
+        }
+      },
+      "13146": {
+        "level": 1,
+        "xp": 3,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "stats": {
+          "HP": 91,
+          "MP": 112,
+          "ATK": 12,
+          "DEF": 18,
+          "MAG": 13,
+          "LUK": 4
         }
       },
       "13884": {
@@ -681,6 +743,22 @@
           "LUK": 8
         }
       },
+      "48573": {
+        "level": 1,
+        "xp": 3,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 1
+        },
+        "stats": {
+          "HP": 94,
+          "MP": 81,
+          "ATK": 15,
+          "DEF": 12,
+          "MAG": 8,
+          "LUK": 1
+        }
+      },
       "48732": {
         "level": 1,
         "xp": 9,
@@ -813,11 +891,11 @@
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-09-28T22:44:43.494Z"
+      "last_update_at": "2025-09-28T22:51:48.451Z"
     }
   },
   "meta": {
-    "saved_at": "2025-09-28T22:44:43.494Z",
+    "saved_at": "2025-09-28T22:51:48.451Z",
     "by": "scraps"
   }
 }

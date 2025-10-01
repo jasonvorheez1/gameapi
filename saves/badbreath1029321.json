@@ -1,6 +1,6 @@
 {
   "data": {
-    "id": "0f772e71-e8d9-421b-982b-35b2e2a616ea",
+    "id": "2defd2f8-9e19-4eec-9d83-033421c08335",
     "shards": 0,
     "shards_by_rarity": {
       "Common": 13,
@@ -1072,7 +1072,10 @@
         "acquiredAt": 1758681029230
       }
     },
-    "wishlist": [],
+    "wishlist": [
+      "73799",
+      "73797"
+    ],
     "upgrades": {
       "points": 284,
       "contrib": {
@@ -2776,11 +2779,11 @@
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-10-01T17:01:35.968Z"
+      "last_update_at": "2025-10-01T17:01:39.333Z"
     }
   },
   "meta": {
-    "saved_at": "2025-10-01T17:01:35.968Z",
+    "saved_at": "2025-10-01T17:01:39.333Z",
     "by": "badbreath1029321"
   }
 }

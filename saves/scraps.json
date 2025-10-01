@@ -8,7 +8,7 @@
       "Epic": 3,
       "Legendary": 0
     },
-    "points": 839,
+    "points": 23,
     "power": 556,
     "collection": {
       "2424": {
@@ -394,7 +394,9 @@
           "bonus": 1
         }
       },
-      "wishSlotsLevel": 1
+      "wishSlotsLevel": 1,
+      "hangoutRateLevel": 1,
+      "pointsGainLevel": 2
     },
     "hangouts": 1,
     "ability_checks": 3,
@@ -998,11 +1000,11 @@
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-10-01T17:10:15.929Z"
+      "last_update_at": "2025-10-01T17:11:21.348Z"
     }
   },
   "meta": {
-    "saved_at": "2025-10-01T17:10:15.929Z",
+    "saved_at": "2025-10-01T17:11:21.348Z",
     "by": "scraps"
   }
 }

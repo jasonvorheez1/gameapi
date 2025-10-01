@@ -1,6 +1,6 @@
 {
   "data": {
-    "id": "9ffdc420-64d5-4c9b-afb7-5c07c63bc8ed",
+    "id": "68161c6f-c307-4abd-bfab-990ba110b5b5",
     "shards": 0,
     "shards_by_rarity": {
       "Common": 7,
@@ -8,7 +8,7 @@
       "Epic": 3,
       "Legendary": 0
     },
-    "points": 1198,
+    "points": 839,
     "power": 556,
     "collection": {
       "2424": {
@@ -387,13 +387,14 @@
     ],
     "upgrades": {
       "points": 1198,
-      "wishChanceLevel": 1,
+      "wishChanceLevel": 2,
       "contrib": {
         "2025-09-27": {
           "used": 2,
           "bonus": 1
         }
-      }
+      },
+      "wishSlotsLevel": 1
     },
     "hangouts": 1,
     "ability_checks": 3,
@@ -997,11 +998,11 @@
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-10-01T17:08:16.102Z"
+      "last_update_at": "2025-10-01T17:10:15.929Z"
     }
   },
   "meta": {
-    "saved_at": "2025-10-01T17:08:16.102Z",
+    "saved_at": "2025-10-01T17:10:15.929Z",
     "by": "scraps"
   }
 }

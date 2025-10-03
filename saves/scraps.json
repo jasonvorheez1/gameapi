@@ -1,6 +1,6 @@
 {
   "data": {
-    "id": "fc878740-d9be-48cb-827b-f79fbdfcdb6a",
+    "id": "3f97196e-2e5e-49bb-a40b-66aa109b84a3",
     "shards": 0,
     "shards_by_rarity": {
       "Common": 7,
@@ -411,7 +411,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 134,
+          "MP": 115,
+          "ATK": 9,
+          "DEF": 10,
+          "MAG": 16,
+          "LUK": 7
+        }
       },
       "2959": {
         "level": 1,
@@ -420,7 +427,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 104,
+          "MP": 105,
+          "ATK": 8,
+          "DEF": 16,
+          "MAG": 11,
+          "LUK": 8
+        }
       },
       "3446": {
         "level": 1,
@@ -429,7 +443,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 94,
+          "MP": 95,
+          "ATK": 10,
+          "DEF": 10,
+          "MAG": 10,
+          "LUK": 9
+        }
       },
       "3981": {
         "level": 1,
@@ -438,7 +459,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 95,
+          "MP": 86,
+          "ATK": 12,
+          "DEF": 8,
+          "MAG": 8,
+          "LUK": 10
+        }
       },
       "4062": {
         "level": 1,
@@ -447,7 +475,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 142,
+          "MP": 40,
+          "ATK": 8,
+          "DEF": 6,
+          "MAG": 17,
+          "LUK": 8
+        }
       },
       "5928": {
         "level": 1,
@@ -456,7 +491,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 150,
+          "MP": 96,
+          "ATK": 15,
+          "DEF": 12,
+          "MAG": 11,
+          "LUK": 3
+        }
       },
       "8363": {
         "level": 1,
@@ -465,7 +507,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 99,
+          "MP": 55,
+          "ATK": 15,
+          "DEF": 12,
+          "MAG": 11,
+          "LUK": 9
+        }
       },
       "8792": {
         "level": 1,
@@ -474,7 +523,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 142,
+          "MP": 116,
+          "ATK": 12,
+          "DEF": 10,
+          "MAG": 11,
+          "LUK": 9
+        }
       },
       "9951": {
         "level": 1,
@@ -483,7 +539,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 141,
+          "MP": 33,
+          "ATK": 20,
+          "DEF": 12,
+          "MAG": 14,
+          "LUK": 7
+        }
       },
       "9971": {
         "level": 1,
@@ -492,7 +555,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 134,
+          "MP": 41,
+          "ATK": 11,
+          "DEF": 17,
+          "MAG": 19,
+          "LUK": 3
+        }
       },
       "13079": {
         "level": 1,
@@ -501,7 +571,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 95,
+          "MP": 59,
+          "ATK": 16,
+          "DEF": 6,
+          "MAG": 17,
+          "LUK": 1
+        }
       },
       "13146": {
         "level": 1,
@@ -510,7 +587,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 91,
+          "MP": 112,
+          "ATK": 12,
+          "DEF": 18,
+          "MAG": 13,
+          "LUK": 4
+        }
       },
       "13884": {
         "level": 1,
@@ -519,7 +603,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 106,
+          "MP": 58,
+          "ATK": 10,
+          "DEF": 14,
+          "MAG": 15,
+          "LUK": 1
+        }
       },
       "14175": {
         "level": 1,
@@ -528,7 +619,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 92,
+          "MP": 68,
+          "ATK": 9,
+          "DEF": 8,
+          "MAG": 17,
+          "LUK": 7
+        }
       },
       "15693": {
         "level": 1,
@@ -537,7 +635,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 82,
+          "MP": 87,
+          "ATK": 11,
+          "DEF": 16,
+          "MAG": 16,
+          "LUK": 2
+        }
       },
       "21929": {
         "level": 1,
@@ -546,7 +651,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 118,
+          "MP": 109,
+          "ATK": 13,
+          "DEF": 12,
+          "MAG": 9,
+          "LUK": 7
+        }
       },
       "22634": {
         "level": 1,
@@ -555,7 +667,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 91,
+          "MP": 84,
+          "ATK": 9,
+          "DEF": 17,
+          "MAG": 11,
+          "LUK": 4
+        }
       },
       "23241": {
         "level": 1,
@@ -564,7 +683,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 148,
+          "MP": 39,
+          "ATK": 20,
+          "DEF": 17,
+          "MAG": 9,
+          "LUK": 8
+        }
       },
       "24016": {
         "level": 1,
@@ -573,7 +699,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 126,
+          "MP": 34,
+          "ATK": 8,
+          "DEF": 9,
+          "MAG": 11,
+          "LUK": 10
+        }
       },
       "27558": {
         "level": 1,
@@ -582,7 +715,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 137,
+          "MP": 49,
+          "ATK": 8,
+          "DEF": 7,
+          "MAG": 14,
+          "LUK": 10
+        }
       },
       "31482": {
         "level": 1,
@@ -591,7 +731,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 121,
+          "MP": 102,
+          "ATK": 13,
+          "DEF": 17,
+          "MAG": 17,
+          "LUK": 10
+        }
       },
       "32939": {
         "level": 1,
@@ -600,7 +747,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 140,
+          "MP": 79,
+          "ATK": 12,
+          "DEF": 6,
+          "MAG": 17,
+          "LUK": 7
+        }
       },
       "33906": {
         "level": 1,
@@ -609,7 +763,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 133,
+          "MP": 87,
+          "ATK": 8,
+          "DEF": 15,
+          "MAG": 18,
+          "LUK": 3
+        }
       },
       "34222": {
         "level": 1,
@@ -618,7 +779,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 150,
+          "MP": 40,
+          "ATK": 14,
+          "DEF": 14,
+          "MAG": 15,
+          "LUK": 8
+        }
       },
       "42745": {
         "level": 1,
@@ -627,7 +795,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 125,
+          "MP": 64,
+          "ATK": 15,
+          "DEF": 6,
+          "MAG": 18,
+          "LUK": 6
+        }
       },
       "44726": {
         "level": 1,
@@ -636,7 +811,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 116,
+          "MP": 58,
+          "ATK": 12,
+          "DEF": 6,
+          "MAG": 11,
+          "LUK": 8
+        }
       },
       "48573": {
         "level": 1,
@@ -645,7 +827,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 94,
+          "MP": 81,
+          "ATK": 15,
+          "DEF": 12,
+          "MAG": 8,
+          "LUK": 1
+        }
       },
       "48732": {
         "level": 1,
@@ -654,7 +843,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 109,
+          "MP": 86,
+          "ATK": 20,
+          "DEF": 17,
+          "MAG": 13,
+          "LUK": 10
+        }
       },
       "51454": {
         "level": 1,
@@ -663,7 +859,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 83,
+          "MP": 31,
+          "ATK": 15,
+          "DEF": 13,
+          "MAG": 12,
+          "LUK": 3
+        }
       },
       "52333": {
         "level": 1,
@@ -672,7 +875,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 134,
+          "MP": 119,
+          "ATK": 13,
+          "DEF": 8,
+          "MAG": 9,
+          "LUK": 9
+        }
       },
       "56327": {
         "level": 1,
@@ -681,7 +891,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 125,
+          "MP": 101,
+          "ATK": 12,
+          "DEF": 8,
+          "MAG": 10,
+          "LUK": 4
+        }
       },
       "59075": {
         "level": 1,
@@ -690,7 +907,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 102,
+          "MP": 93,
+          "ATK": 16,
+          "DEF": 12,
+          "MAG": 18,
+          "LUK": 4
+        }
       },
       "66553": {
         "level": 1,
@@ -699,7 +923,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 86,
+          "MP": 93,
+          "ATK": 16,
+          "DEF": 6,
+          "MAG": 9,
+          "LUK": 6
+        }
       },
       "67874": {
         "level": 1,
@@ -708,7 +939,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 136,
+          "MP": 51,
+          "ATK": 8,
+          "DEF": 11,
+          "MAG": 15,
+          "LUK": 9
+        }
       },
       "71247": {
         "level": 1,
@@ -717,7 +955,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 107,
+          "MP": 54,
+          "ATK": 20,
+          "DEF": 9,
+          "MAG": 10,
+          "LUK": 1
+        }
       },
       "72949": {
         "level": 1,
@@ -726,7 +971,14 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 105,
+          "MP": 47,
+          "ATK": 18,
+          "DEF": 11,
+          "MAG": 16,
+          "LUK": 9
+        }
       },
       "73822": {
         "level": 1,
@@ -735,17 +987,24 @@
           "tier": "Common",
           "stage": 1
         },
-        "stats": null
+        "stats": {
+          "HP": 127,
+          "MP": 76,
+          "ATK": 13,
+          "DEF": 15,
+          "MAG": 9,
+          "LUK": 2
+        }
       }
     },
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-10-03T04:30:15.847Z"
+      "last_update_at": "2025-10-03T04:32:20.551Z"
     }
   },
   "meta": {
-    "saved_at": "2025-10-03T04:30:15.847Z",
+    "saved_at": "2025-10-03T04:32:20.551Z",
     "by": "scraps"
   }
 }

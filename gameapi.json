@@ -1,19 +1,12 @@
 [
   {
-    "id": "1",
-    "Id": "1",
-    "name": "Spike Spiegel",
-    "Name": "Spike Spiegel",
-    "franchise": "Cowboy Bebop",
-    "Franchise": "Cowboy Bebop",
-    "imageUrls": [
-      "https://cdn.myanimelist.net/images/characters/11/516853.jpg"
-    ],
-    "images": {
-      "imageno1": "https://cdn.myanimelist.net/images/characters/11/516853.jpg"
-    }
+    "franchise": "",
+    "Franchise": "",
+    "imageUrls": [],
+    "images": {}
   },
   {
+<<<<<<< HEAD
     "id": "2",
     "Id": "2",
     "name": "Faye Valentine",
@@ -695742,5 +695735,11 @@
     "Name": "Megumi Fushiguro",
     "Franchise": "Jujutsu Kaisen",
     "imageno1": "https://i.imgur.com/4pXJ6s0.png"
+=======
+    "franchise": "",
+    "Franchise": "",
+    "imageUrls": [],
+    "images": {}
+>>>>>>> bbae7177a479b7c7f4f7040776624a356e8f6fca
   }
 ]

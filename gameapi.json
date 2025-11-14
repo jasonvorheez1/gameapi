@@ -1,11 +1,5 @@
 [
   {
-    "franchise": "",
-    "Franchise": "",
-    "imageUrls": [],
-    "images": {}
-  },
-  {
     "id": "2",
     "Id": "2",
     "name": "Faye Valentine",
@@ -695724,15 +695718,39 @@
     }
   },
   {
-    "Id": 73824,
+    "id": "73824",
+    "Id": "73824",
+    "name": "Nobara Kugisaki",
     "Name": "Nobara Kugisaki",
+    "franchise": "Jujutsu Kaisen",
     "Franchise": "Jujutsu Kaisen",
-    "imageno1": "https://i.imgur.com/Gh0X3hd.png"
+    "imageUrls": [],
+    "images": {}
   },
   {
-    "Id": 73825,
+    "id": "73825",
+    "Id": "73825",
+    "name": "Megumi Fushiguro",
     "Name": "Megumi Fushiguro",
+    "franchise": "Jujutsu Kaisen",
     "Franchise": "Jujutsu Kaisen",
-    "imageno1": "https://i.imgur.com/4pXJ6s0.png"
+    "imageUrls": [],
+    "images": {}
+  },
+  {
+    "id": "73826",
+    "Id": "73826",
+    "name": "Vee",
+    "Name": "Vee",
+    "franchise": "Dandy's World",
+    "Franchise": "Dandy's World",
+    "imageUrls": [
+      "https://i.imgur.com/3WWFxKF.png",
+      "https://i.imgur.com/31sJI4I.png"
+    ],
+    "images": {
+      "imageno1": "https://i.imgur.com/3WWFxKF.png",
+      "imageno2": "https://i.imgur.com/31sJI4I.png"
+    }
   }
 ]

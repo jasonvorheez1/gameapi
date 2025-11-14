@@ -1,6 +1,6 @@
 {
   "data": {
-    "id": "7a4adbc7-3600-47ee-9c30-41bd8a9501ac",
+    "id": "a092f6d3-9ba5-4a00-9ceb-315076f1e0c1",
     "shards": 0,
     "shards_by_rarity": {
       "Common": 13,
@@ -9,7 +9,7 @@
       "Legendary": 0
     },
     "points": 284,
-    "power": 67232,
+    "power": 68336,
     "collection": {
       "121": {
         "owned": true,
@@ -1021,6 +1021,16 @@
         },
         "acquiredAt": 1758660700269
       },
+      "73799": {
+        "owned": true,
+        "level": 23,
+        "xp": 14166,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 3
+        },
+        "acquiredAt": 1763141339793
+      },
       "73812": {
         "owned": true,
         "level": 1,
@@ -1072,10 +1082,7 @@
         "acquiredAt": 1758681029230
       }
     },
-    "wishlist": [
-      "73799",
-      "73797"
-    ],
+    "wishlist": [],
     "upgrades": {
       "points": 284,
       "contrib": {
@@ -2695,6 +2702,22 @@
           "LUK": 10
         }
       },
+      "73799": {
+        "level": 23,
+        "xp": 14166,
+        "rarityTier": {
+          "tier": "Common",
+          "stage": 3
+        },
+        "stats": {
+          "HP": 386,
+          "MP": 274,
+          "ATK": 62,
+          "DEF": 60,
+          "MAG": 61,
+          "LUK": 24
+        }
+      },
       "73812": {
         "level": 1,
         "xp": 9,
@@ -2779,11 +2802,11 @@
     "update_progress": {
       "save_version": 3,
       "migrations_applied": [],
-      "last_update_at": "2025-10-01T17:06:00.352Z"
+      "last_update_at": "2025-11-14T17:51:17.969Z"
     }
   },
   "meta": {
-    "saved_at": "2025-10-01T17:06:00.352Z",
+    "saved_at": "2025-11-14T17:51:17.969Z",
     "by": "badbreath1029321"
   }
 }

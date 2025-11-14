@@ -1,11 +1,21 @@
 {
   "top_players": [
     {
+      "username": "scraps",
+      "power": 556,
+      "total_claims": 18
+    },
+    {
       "username": "badbreath1029321",
       "power": 67232,
+      "total_claims": 5
+    },
+    {
+      "username": "blackbreeze58880189",
+      "power": 0,
       "total_claims": 0
     }
   ],
   "top_claimed": [],
-  "generated_at": "2025-11-14T16:36:04.456Z"
+  "generated_at": "2025-11-14T17:45:45.954Z"
 }

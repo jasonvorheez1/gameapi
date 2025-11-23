@@ -1,5 +1,11 @@
 [
   {
+    "franchise": "",
+    "Franchise": "",
+    "imageUrls": [],
+    "images": {}
+  },
+  {
     "id": "2",
     "Id": "2",
     "name": "Faye Valentine",
@@ -695718,39 +695724,70 @@
     }
   },
   {
-    "id": "73824",
-    "Id": "73824",
-    "name": "Nobara Kugisaki",
+    "Id": 73824,
     "Name": "Nobara Kugisaki",
-    "franchise": "Jujutsu Kaisen",
     "Franchise": "Jujutsu Kaisen",
-    "imageUrls": [],
-    "images": {}
+    "imageno1": "https://i.imgur.com/Gh0X3hd.png"
   },
   {
-    "id": "73825",
-    "Id": "73825",
-    "name": "Megumi Fushiguro",
+    "Id": 73825,
     "Name": "Megumi Fushiguro",
-    "franchise": "Jujutsu Kaisen",
     "Franchise": "Jujutsu Kaisen",
-    "imageUrls": [],
-    "images": {}
+    "imageno1": "https://i.imgur.com/4pXJ6s0.png"
   },
   {
-    "id": "73826",
-    "Id": "73826",
-    "name": "Vee",
+    "Id": 73826,
     "Name": "Vee",
-    "franchise": "Dandy's World",
     "Franchise": "Dandy's World",
-    "imageUrls": [
-      "https://i.imgur.com/3WWFxKF.png",
-      "https://i.imgur.com/31sJI4I.png"
-    ],
-    "images": {
-      "imageno1": "https://i.imgur.com/3WWFxKF.png",
-      "imageno2": "https://i.imgur.com/31sJI4I.png"
-    }
+    "imageno1": "https://i.imgur.com/3WWFxKF.png"
+  },
+  {
+    "Id": 73827,
+    "Name": "Karkat Vantas",
+    "Franchise": "Homestuck",
+    "imageno1": "https://static.wikia.nocookie.net/mspaintadventures/images/1/17/Karkat_Vantas.png"
+  },
+  {
+    "Id": 73828,
+    "Name": "John Egbert",
+    "Franchise": "Homestuck",
+    "imageno1": "https://static.wikia.nocookie.net/mspaintadventures/images/8/82/John.png"
+  },
+  {
+    "Id": 73829,
+    "Name": "Gamzee Makara",
+    "Franchise": "Homestuck",
+    "imageno1": "https://static.wikia.nocookie.net/mspaintadventures/images/6/60/Gamzee_Makara.png"
+  },
+  {
+    "Id": 73830,
+    "Name": "Dave Strider",
+    "Franchise": "Homestuck",
+    "imageno1": "https://static.wikia.nocookie.net/mspaintadventures/images/e/e8/Dave_Strider.png"
+  },
+  {
+    "Id": 73830,
+    "Name": "Nepeta Leijon",
+    "Franchise": "Homestuck",
+    "imageno1": "https://static.wikia.nocookie.net/mspaintadventures/images/3/37/Nepeta_Leijon.png"
+  },
+  {
+    "Id": 73831,
+    "Name": "Vriska Serket",
+    "Franchise": "Homestuck",
+    "imageno1": "https://static.wikia.nocookie.net/mspaintadventures/images/8/81/Vriska_Serket.png"
+  },
+  {
+    "Id": 73832,
+    "Name": "Dirk Strider",
+    "Franchise": "Homestuck",
+    "imageno1": "https://static.wikia.nocookie.net/mspaintadventures/images/5/58/Dirk_Strider.png"
+  },
+  {
+    "Id": 73833,
+    "Name": "Jade Harley",
+    "Franchise": "Homestuck",
+    "imageno1": "https://i.imgur.com/mSo6jnk.png"
   }
+
 ]

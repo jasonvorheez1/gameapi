@@ -64912,13 +64912,15 @@
     "Id": "5256",
     "name": "Kirby",
     "Name": "Kirby",
-    "franchise": "Hoshi no Kirby",
-    "Franchise": "Hoshi no Kirby",
+    "franchise": "Kirby",
+    "Franchise": "Kirby",
     "imageUrls": [
       "https://cdn.myanimelist.net/images/characters/11/208875.jpg"
     ],
     "images": {
-      "imageno1": "https://cdn.myanimelist.net/images/characters/11/208875.jpg"
+      "imageno1": "https://cdn.myanimelist.net/images/characters/11/208875.jpg",
+      "imageno2": "https://i.imgur.com/6peMwpw.png",
+      "imageno3": "https://i.imgur.com/d4KmdNq.png"
     }
   },
   {
@@ -64926,8 +64928,8 @@
     "Id": "5257",
     "name": "Meta Knight",
     "Name": "Meta Knight",
-    "franchise": "Hoshi no Kirby",
-    "Franchise": "Hoshi no Kirby",
+    "franchise": "Kirby",
+    "Franchise": "Kirby",
     "imageUrls": [
       "https://cdn.myanimelist.net/images/characters/16/324956.jpg"
     ],
@@ -64940,8 +64942,8 @@
     "Id": "5258",
     "name": "King Dedede",
     "Name": "King Dedede",
-    "franchise": "Hoshi no Kirby",
-    "Franchise": "Hoshi no Kirby",
+    "franchise": "Kirby",
+    "Franchise": "Kirby",
     "imageUrls": [
       "https://cdn.myanimelist.net/images/characters/6/329454.jpg"
     ],
@@ -64954,8 +64956,8 @@
     "Id": "5259",
     "name": "Bun",
     "Name": "Bun",
-    "franchise": "Hoshi no Kirby",
-    "Franchise": "Hoshi no Kirby",
+    "franchise": "Kirby",
+    "Franchise": "Kirby",
     "imageUrls": [
       "https://cdn.myanimelist.net/images/characters/9/81758.jpg"
     ],
@@ -165276,8 +165278,8 @@
     "Id": "15972",
     "name": "Fumu",
     "Name": "Fumu",
-    "franchise": "Hoshi no Kirby",
-    "Franchise": "Hoshi no Kirby",
+    "franchise": "Kirby",
+    "Franchise": "Kirby",
     "imageUrls": [
       "https://cdn.myanimelist.net/images/characters/8/38032.jpg"
     ],
@@ -330558,8 +330560,8 @@
     "Id": "35421",
     "name": "Customer Service",
     "Name": "Customer Service",
-    "franchise": "Hoshi no Kirby",
-    "Franchise": "Hoshi no Kirby",
+    "franchise": "Kirby",
+    "Franchise": "Kirby",
     "imageUrls": [
       "https://cdn.myanimelist.net/images/characters/7/109087.jpg"
     ],
@@ -695788,6 +695790,236 @@
     "Name": "Jade Harley",
     "Franchise": "Homestuck",
     "imageno1": "https://i.imgur.com/mSo6jnk.png"
+  },
+  {
+    "Id": 73834,
+    "Name": "Ado",
+    "Franchise": "Utaite",
+    "imageno1": "https://i.imgur.com/gs3U53R.png",
+    "imageno2": "https://i.imgur.com/IdV6ESZ.png",
+    "imageno3": "https://i.imgur.com/qh269VV.png",
+    "imageno4": "https://i.imgur.com/hfDaa6c.png"
+  },
+  {
+    "Id": 73835,
+    "Name": "Mafumafu",
+    "Franchise": "Utaite",
+    "imageno1": "https://i.imgur.com/QngaHoL.png",
+    "imageno2": "https://i.imgur.com/0bh7Bkm.png",
+    "imageno3": "https://i.imgur.com/96THSyG.png",
+    "imageno4": "https://i.imgur.com/Y0qrqPC.png"
+  },
+  {
+    "Id": 73836,
+    "Name": "Eve",
+    "Franchise": "Utaite",
+    "imageno1": "https://i.imgur.com/zh5H1bV.png",
+    "imageno2": "https://i.imgur.com/2xxC8Zc.png",
+    "imageno3": "https://i.imgur.com/96THSyG.png"
+  },
+  {
+    "Id": 73837,
+    "Name": "Yama",
+    "Franchise": "Utaite",
+    "imageno1": "https://i.imgur.com/Rw6G40z.png"
+  },
+  {
+    "Id": 73838,
+    "Name": "Nanahira",
+    "Franchise": "Utaite",
+    "imageno1": "https://i.imgur.com/qMoMsJR.png",
+    "imageno2": "https://i.imgur.com/QB0D4OY.png",
+    "imageno3": "https://i.imgur.com/DMMLQeu.png",
+    "imageno4": "https://i.imgur.com/7gdPV7O.png"
+    "imageno5": "https://i.imgur.com/aWiCMsc.png"
+  },
+  {
+    "Id": 73839,
+    "Name": "Choko",
+    "Franchise": "Utaite",
+    "imageno1": "https://i.imgur.com/yvWFYgs.png"
+  },
+  {
+    "Id": 73840,
+    "Name": "miko",
+    "Franchise": "Utaite",
+    "imageno1": "https://i.imgur.com/InJct52.png",
+    "imageno2": "https://i.imgur.com/fxu9pZD.png",
+    "imageno3": "https://i.imgur.com/liUaQ7c.png"
+  },
+  {
+    "Id": 73841,
+    "Name": "Kancell",
+    "Franchise": "Utaite",
+    "imageno1": "https://i.imgur.com/ypmqamQ.png"
+  },
+  {
+    "Id": 73842,
+    "Name": "SILVANA",
+    "Franchise": "Utaite",
+    "imageno1": "https://i.imgur.com/EPN3HlU.png"
+  },
+  {
+    "Id": 73843,
+    "Name": "Broom Hatter",
+    "Franchise": "Kirby",
+    "imageno1": "https://i.imgur.com/325QjyU.png"
+  },
+  {
+    "Id": 73844,
+    "Name": "Waddle Doo",
+    "Franchise": "Kirby",
+    "imageno1": "https://i.imgur.com/A4xRuaU.png"
+  },
+  {
+    "Id": 73845,
+    "Name": "Waddle Doo",
+    "Franchise": "Kirby",
+    "imageno1": "https://i.imgur.com/A4xRuaU.png",
+    "imageno2": "https://i.imgur.com/QGEDe7Y.png",
+    "imageno3": "https://i.imgur.com/22qkCQO.png"
+
+  },
+  {
+    "Id": 73846,
+    "Name": "Sir Kibble",
+    "Franchise": "Kirby",
+    "imageno1": "https://i.imgur.com/o4vzfD1.png"
+
+  },
+  {
+    "Id": 73847,
+    "Name": "Chilly",
+    "Franchise": "Kirby",
+    "imageno1": "https://i.imgur.com/CgENgD6.png",
+    "imageno2": "https://i.imgur.com/f4dpaQJ.png",
+    "imageno3": "https://i.imgur.com/N56Rieh.png",
+    "imageno4": "https://i.imgur.com/obYC3i2.png"
+
+  },
+  {
+    "Id": 73848,
+    "Name": "Grizzo",
+    "Franchise": "Kirby",
+    "imageno1": "https://i.imgur.com/7cby8cL.png"
+
+  },
+  {
+    "Id": 73849,
+    "Name": "Glamrock Freddy",
+    "Franchise": "Five Nights at Freddy's",
+    "imageno1": "https://i.imgur.com/bebYZrQ.png",
+    "imageno2": "https://i.imgur.com/cPTo89V.png",
+    "imageno3": "https://i.imgur.com/XC6H50b.png",
+
+  },
+  {
+    "Id": 73850,
+    "Name": "Gregory",
+    "Franchise": "Five Nights at Freddy's",
+    "imageno1": "https://i.imgur.com/fbMkcxx.png",
+    "imageno2": "https://i.imgur.com/JukiZ67.jpeg"
+
+  },
+  {
+    "Id": 73851,
+    "Name": "Roxanne Wolf",
+    "Franchise": "Five Nights at Freddy's",
+    "imageno1": "https://i.imgur.com/NGPTSQ9.png",
+    "imageno2": "https://i.imgur.com/ynqm47w.png",
+    "imageno3": "https://i.imgur.com/mjZjZ2b.png",
+    "imageno4": "https://i.imgur.com/2vgFFNW.png",
+    "imageno5": "https://i.imgur.com/iwC5RUK.png"
+
+  },
+  {
+    "Id": 73852,
+    "Name": "Montgomery Gator",
+    "Franchise": "Five Nights at Freddy's",
+    "imageno1": "https://i.imgur.com/PanZ4FB.png"
+
+  },
+  {
+    "Id": 73853,
+    "Name": "Glamrock Bonnie",
+    "Franchise": "Five Nights at Freddy's",
+    "imageno1": "https://i.imgur.com/hU9oT1B.png"
+
+  },
+  {
+    "Id": 73854,
+    "Name": "Glamrock Chica",
+    "Franchise": "Five Nights at Freddy's",
+    "imageno1": "https://i.imgur.com/AvVXtfk.png"
+
+  },
+  {
+    "Id": 73855,
+    "Name": "Sun",
+    "Franchise": "Five Nights at Freddy's",
+    "imageno1": "https://i.imgur.com/XmMP1sR.png"
+
+  },
+  {
+    "Id": 73856,
+    "Name": "Moon",
+    "Franchise": "Five Nights at Freddy's",
+    "imageno1": "https://i.imgur.com/jhXtZIj.png"
+
+  },
+  {
+    "Id": 73857,
+    "Name": "Freddy Fazbear",
+    "Franchise": "Five Nights at Freddy's",
+    "imageno1": "https://i.imgur.com/oIgdvY4.png"
+
+  },
+  {
+    "Id": 73858,
+    "Name": "Bonnie",
+    "Franchise": "Five Nights at Freddy's",
+    "imageno1": "https://i.imgur.com/t1dRoPX.png",
+    "imageno2": "https://i.imgur.com/VWyDkKB.png",
+    "imageno3": "https://i.imgur.com/8sP2yrC.png"
+  },
+  {
+    "Id": 73859,
+    "Name": "Mr. Cupcake",
+    "Franchise": "Five Nights at Freddy's",
+    "imageno1": "https://i.imgur.com/gBxJ9vw.png",
+  },
+  {
+    "Id": 73860,
+    "Name": "Foxy",
+    "Franchise": "Five Nights at Freddy's",
+    "imageno1": "https://i.imgur.com/oHnyE6t.png"
+  },
+  {
+    "Id": 73861,
+    "Name": "Golden Freddy",
+    "Franchise": "Five Nights at Freddy's",
+    "imageno1": "https://i.imgur.com/dqI0qQY.png"
+  },
+  {
+    "Id": 73862,
+    "Name": "Springtrap",
+    "Franchise": "Five Nights at Freddy's",
+    "imageno1": "https://i.imgur.com/a4zwlQO.png"
+  },
+  {
+    "Id": 73863,
+    "Name": "Puppet",
+    "Franchise": "Five Nights at Freddy's",
+    "imageno1": "https://i.imgur.com/U9QXyDm.png"
+  },
+  {
+    "Id": 73864,
+    "Name": "Chica",
+    "Franchise": "Five Nights at Freddy's",
+    "imageno1": "https://i.imgur.com/xY9iqVe.png"
   }
+
+
+
 
 ]

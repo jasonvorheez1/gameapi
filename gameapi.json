@@ -696004,5 +696004,12 @@
         "Name": "Chica",
         "Franchise": "Five Nights at Freddy's",
         "imageno1": "https://i.imgur.com/xY9iqVe.png"
+    },
+    {
+        "Id": 73865,
+        "Name": "Mordecai",
+        "Franchise": "Regular Show",
+        "imageno1": "https://i.imgur.com/XdoLe1h.png"
+	"imageno2": "https://i.imgur.com/FbntRLj.png"
     }
 ]

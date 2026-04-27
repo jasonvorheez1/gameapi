@@ -1,0 +1,68 @@
+[
+    {
+        "Id": "1",
+        "Song name": "Gorillaz - Clint Eastwood",
+        "album cover": "https://i.scdn.co/image/ab67616d0000b273c73a7bb15f43bae86215934b",
+        "youtube link": "https://www.youtube.com/watch?v=1V_xRb0x9aw&list=RD1V_xRb0x9aw"
+    },
+    {
+        "Id": "2",
+        "Song name": "Gorillaz - Feel Good Inc",
+        "album cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Gorillaz_Demon_Days.PNG/250px-Gorillaz_Demon_Days.PNG",
+        "youtube link": "https://www.youtube.com/watch?v=ZxVw7bvMd3s"
+    },
+    {
+        "Id": "3",
+        "Song name": "Gorillaz - DARE",
+        "album cover": "https://upload.wikimedia.org/wikipedia/en/8/84/Gorillaz_-_Dare.png",
+        "youtube link": "https://www.youtube.com/watch?v=rIq6i4-8Nww"
+    },
+    {
+        "Id": "4",
+        "Song name": "Gorillaz - Cracker Island",
+        "album cover": "https://i.scdn.co/image/ab67616d0000b27319707804f73dc50f7a29cd86",
+        "youtube link": "https://www.youtube.com/watch?v=24tFMeloa18"
+    },
+    {
+        "Id": "5",
+        "Song name": "Gorillaz - Tranz",
+        "album cover": "https://i1.sndcdn.com/artworks-AyYG6gi80rnx-0-t500x500.jpg",
+        "youtube link": "https://www.youtube.com/watch?v=BCbuxFKTVdc"
+    },
+    {
+        "Id": "6",
+        "Song name": "Madonna - Material Girl",
+        "album cover": "https://i.scdn.co/image/ab67616d0000b273def37b5d437961fa4ba307e7",
+        "youtube link": "https://www.youtube.com/watch?v=9tteAAghrR4"
+    },
+    {
+        "Id": "7",
+        "Song name": "Wham! - Wake Me Up Before You Go-Go",
+        "album cover": "https://upload.wikimedia.org/wikipedia/en/9/9d/WakeMeUpBeforeYouGoGo.jpg",
+        "youtube link": "https://www.youtube.com/watch?v=YfAF92Z3iFw&list=RDYfAF92Z3iFw"
+    },
+    {
+        "Id": "8",
+        "Song name": "Cyndi Lauper - Girls Just Want To Have Fun",
+        "album cover": "https://f4.bcbits.com/img/a1963355085_5.jpg",
+        "youtube link": "https://www.youtube.com/watch?v=jRr5EasAq84"
+    },
+    {
+        "Id": "9",
+        "Song name": "Madonna - I Know It",
+        "album cover": "https://i.ytimg.com/vi/RYJ7KhX0ug0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA08tO2IliISO8quooM1rAMo6rnHg",
+        "youtube link": "https://www.youtube.com/watch?v=xis4uw-HsMY"
+    },
+    {
+        "Id": "10",
+        "Song name": "A-ha - Take on Me",
+        "album cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Take_On_Me_single_cover.jpg/250px-Take_On_Me_single_cover.jpg",
+        "youtube link": "https://www.youtube.com/watch?v=-iKeUC5_Wyw"
+    },
+    {
+        "Id": "11",
+        "Song name": "Eurythmics - Sweet Dreams (Are Made of This)",
+        "album cover": "https://m.media-amazon.com/images/M/MV5BMDhjNGMzNzgtMzY2Yi00MmExLThkZDYtNjdjODgzMzdhODQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "youtube link": "https://www.youtube.com/watch?v=ozSe_W2C86g"
+    }
+]

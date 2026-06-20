@@ -725,5 +725,32 @@
     "name": "Pater-Mater",
     "franchise": "Trails from Zero",
     "by": "admin"
+  },
+  {
+    "id": "bulk_375_1781981046359",
+    "ts": 1781981046359,
+    "type": "character",
+    "charId": 375,
+    "name": "Pater-Mater",
+    "franchise": "Trails in The Sky",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_376_1781981046359",
+    "ts": 1781981046359,
+    "type": "character",
+    "charId": 376,
+    "name": "Anton",
+    "franchise": "Trails in The Sky",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_377_1781981046359",
+    "ts": 1781981046359,
+    "type": "character",
+    "charId": 377,
+    "name": "Lechter Arundel",
+    "franchise": "Trails in The Sky",
+    "by": "admin"
   }
 ]

@@ -653980,5 +653980,29 @@
     "Name": "Pater-Mater",
     "Franchise": "Trails from Zero",
     "imageUrls": []
+  },
+  {
+    "Id": 375,
+    "Name": "Pater-Mater",
+    "Franchise": "Trails in The Sky",
+    "imageUrls": [
+      "https://i.imgur.com/lKiyAle.png"
+    ]
+  },
+  {
+    "Id": 376,
+    "Name": "Anton",
+    "Franchise": "Trails in The Sky",
+    "imageUrls": [
+      "https://i.imgur.com/0ZNsFJN.png"
+    ]
+  },
+  {
+    "Id": 377,
+    "Name": "Lechter Arundel",
+    "Franchise": "Trails in The Sky",
+    "imageUrls": [
+      "https://i.imgur.com/2EhgjgL.png"
+    ]
   }
 ]

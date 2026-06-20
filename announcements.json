@@ -142,5 +142,12 @@
     "name": "Test Char OptimisticMerge",
     "franchise": "Club Suicide",
     "by": "admin"
+  },
+  {
+    "id": "rm_16_1781941803607",
+    "ts": 1781941803607,
+    "type": "remove",
+    "characterId": "16",
+    "name": "Test Char OptimisticMerge"
   }
 ]

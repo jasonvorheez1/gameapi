@@ -1,0 +1,137 @@
+[
+  {
+    "id": "bulk_1_1781941544602",
+    "ts": 1781941544602,
+    "type": "character",
+    "charId": 1,
+    "name": "Mitsuki Kugajima",
+    "franchise": "Club Suicide",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_2_1781941544602",
+    "ts": 1781941544602,
+    "type": "character",
+    "charId": 2,
+    "name": "Tsuzuri Azayomi",
+    "franchise": "Club Suicide",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_3_1781941544602",
+    "ts": 1781941544602,
+    "type": "character",
+    "charId": 3,
+    "name": "Masaya Usui",
+    "franchise": "Club Suicide",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_4_1781941544602",
+    "ts": 1781941544602,
+    "type": "character",
+    "charId": 4,
+    "name": "Shiki Kururugi",
+    "franchise": "Club Suicide",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_5_1781941544602",
+    "ts": 1781941544602,
+    "type": "character",
+    "charId": 5,
+    "name": "Ringo Shindou",
+    "franchise": "Club Suicide",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_6_1781941544602",
+    "ts": 1781941544602,
+    "type": "character",
+    "charId": 6,
+    "name": "Eba Zaizen",
+    "franchise": "Club Suicide",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_7_1781941544602",
+    "ts": 1781941544602,
+    "type": "character",
+    "charId": 7,
+    "name": "Meiyo Mabuchi",
+    "franchise": "Club Suicide",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_8_1781941544602",
+    "ts": 1781941544602,
+    "type": "character",
+    "charId": 8,
+    "name": "Rimari Yoshiyama",
+    "franchise": "Club Suicide",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_9_1781941544602",
+    "ts": 1781941544602,
+    "type": "character",
+    "charId": 9,
+    "name": "Tara Usui",
+    "franchise": "Club Suicide",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_10_1781941544602",
+    "ts": 1781941544602,
+    "type": "character",
+    "charId": 10,
+    "name": "Manyo Kugajima",
+    "franchise": "Club Suicide",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_11_1781941544602",
+    "ts": 1781941544602,
+    "type": "character",
+    "charId": 11,
+    "name": "Musashi Kugajima",
+    "franchise": "Club Suicide",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_12_1781941544602",
+    "ts": 1781941544602,
+    "type": "character",
+    "charId": 12,
+    "name": "Mero Kugajima",
+    "franchise": "Club Suicide",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_13_1781941544602",
+    "ts": 1781941544602,
+    "type": "character",
+    "charId": 13,
+    "name": "Kuka Kugajima",
+    "franchise": "Club Suicide",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_14_1781941544602",
+    "ts": 1781941544602,
+    "type": "character",
+    "charId": 14,
+    "name": "Rinda Kanazawa",
+    "franchise": "Club Suicide",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_15_1781941544602",
+    "ts": 1781941544602,
+    "type": "character",
+    "charId": 15,
+    "name": "Kubito Zaizen",
+    "franchise": "Club Suicide",
+    "by": "admin"
+  }
+]

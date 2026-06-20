@@ -133,5 +133,14 @@
     "name": "Kubito Zaizen",
     "franchise": "Club Suicide",
     "by": "admin"
+  },
+  {
+    "id": "bulk_16_1781941774534",
+    "ts": 1781941774534,
+    "type": "character",
+    "charId": 16,
+    "name": "Test Char OptimisticMerge",
+    "franchise": "Club Suicide",
+    "by": "admin"
   }
 ]

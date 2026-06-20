@@ -9,11 +9,19 @@ const GAMEAPI_PATH = "gameapi.json";
 const ANNOUNCE_PATH = "announcements.json";
 const PENDING_PATH = "pending-suggestions.json";
 
+// IMPORTANT: only treat a file as "fresh start" ([]) when it genuinely
+// doesn't exist. A file that exists but fails to parse means something is
+// actually wrong (corrupted checkout, bad merge, etc.) - silently returning
+// [] there is EXACTLY the bug that wiped the ~49k-character roster three
+// times on 2026-06-20 (see index.ts history). Fail loudly instead.
 function readJson(path) {
+  if (!fs.existsSync(path)) return [];
+  const text = fs.readFileSync(path, "utf8");
   try {
-    return JSON.parse(fs.readFileSync(path, "utf8"));
-  } catch {
-    return [];
+    return JSON.parse(text);
+  } catch (e) {
+    console.error(`FATAL: ${path} exists (${text.length} bytes) but failed to parse - refusing to treat it as empty. ${e.message}`);
+    process.exit(1);
   }
 }
 function writeJson(path, data) {
@@ -37,6 +45,15 @@ const now = Date.now();
 const chars = readJson(GAMEAPI_PATH);
 const announcements = readJson(ANNOUNCE_PATH);
 const pending = readJson(PENDING_PATH);
+
+// A sane non-empty roster should never come back tiny after a real commit -
+// double-check before risking a write, since a partial/corrupted checkout
+// silently truncating the file is exactly the failure mode this whole
+// pipeline replaced the Edge Function to avoid.
+if (fs.existsSync(GAMEAPI_PATH) && chars.length < 1000) {
+  console.error(`FATAL: ${GAMEAPI_PATH} parsed to only ${chars.length} entries - that's implausibly small for the real roster. Refusing to write, to avoid repeating the wipe incident.`);
+  process.exit(1);
+}
 
 if (action === "bulk_add") {
   const items = Array.isArray(payload.characters) ? payload.characters : [];
@@ -62,10 +79,13 @@ if (action === "bulk_add") {
   const cid = String(payload.characterId || "");
   const target = chars.find((c) => String(c.Id ?? c.id) === cid);
   const next = chars.filter((c) => String(c.Id ?? c.id) !== cid);
-  announcements.push({ id: `rm_${cid}_${now}`, ts: now, type: "remove", characterId: cid, name: payload.name || target?.Name || "" });
-  writeJson(GAMEAPI_PATH, next);
-  writeJson(ANNOUNCE_PATH, announcements.slice(-1000));
-  console.log(`remove: ${cid} (${target ? "found" : "not found"})`);
+  const removed = next.length !== chars.length;
+  if (removed) {
+    announcements.push({ id: `rm_${cid}_${now}`, ts: now, type: "remove", characterId: cid, name: payload.name || target?.Name || "" });
+    writeJson(GAMEAPI_PATH, next);
+    writeJson(ANNOUNCE_PATH, announcements.slice(-1000));
+  }
+  console.log(`remove: ${cid} (${removed ? "removed" : "not found - nothing changed"})`);
 } else if (action === "accept") {
   const id = String(payload.id || "");
   const s = pending.find((x) => x.id === id);

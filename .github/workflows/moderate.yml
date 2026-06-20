@@ -1,0 +1,36 @@
+name: Moderate character database
+
+# Triggered by the Supabase "moderate" Edge Function via repository_dispatch.
+# Edge Functions have a tight memory limit (~150MB) and gameapi.json is
+# ~21MB - reading/decoding/re-encoding it in-process reliably ran out of
+# memory and silently committed a near-empty file (wiped the ~49k-character
+# roster three times on 2026-06-20 before this was diagnosed). GitHub Actions
+# runners have ~7GB of memory, so the actual read-modify-write now happens
+# here instead; the Edge Function just dispatches this event and returns.
+on:
+  repository_dispatch:
+    types: [moderate-action]
+
+permissions:
+  contents: write
+
+jobs:
+  moderate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Apply moderation action
+        env:
+          PAYLOAD: ${{ toJson(github.event.client_payload) }}
+        run: node .github/scripts/moderate.js
+
+      - name: Commit and push
+        run: |
+          git config user.name "daisuke-bot"
+          git config user.email "noreply@daisuke.local"
+          git add gameapi.json announcements.json pending-suggestions.json
+          git diff --cached --quiet || git commit -m "moderate: ${{ github.event.client_payload.action }}"
+          git push

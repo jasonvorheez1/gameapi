@@ -6,7 +6,7 @@
     "by": "Malo",
     "votes": 0,
     "name": "Hawlucha",
-    "franchise": "PokÃ©mon Creatures (gen 6)",
+    "franchise": "PokÃÂ©mon Creatures (gen 6)",
     "imageUrls": [
       "https://i.imgur.com/ajjy2MI.png"
     ]
@@ -18,6 +18,16 @@
     "by": "Malo",
     "votes": 0,
     "name": "Bulk Char One",
+    "franchise": "Test Bulk Series XYZ",
+    "imageUrls": []
+  },
+  {
+    "id": "sg_mqmpw9peocj9",
+    "type": "character",
+    "ts": 1781981702674,
+    "by": "Malo",
+    "votes": 0,
+    "name": "Bulk Char Two",
     "franchise": "Test Bulk Series XYZ",
     "imageUrls": []
   }

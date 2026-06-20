@@ -123,13 +123,5 @@
     "imageUrls": [
       "https://i.imgur.com/Wo3jm3z.png"
     ]
-  },
-  {
-    "Id": 16,
-    "Name": "Test Char OptimisticMerge",
-    "Franchise": "Club Suicide",
-    "imageUrls": [
-      "https://example.com/optimistic.jpg"
-    ]
   }
 ]

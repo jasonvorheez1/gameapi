@@ -10,25 +10,5 @@
     "imageUrls": [
       "https://i.imgur.com/ajjy2MI.png"
     ]
-  },
-  {
-    "id": "sg_mqmpw8uevcbh",
-    "type": "character",
-    "ts": 1781981701647,
-    "by": "Malo",
-    "votes": 0,
-    "name": "Bulk Char One",
-    "franchise": "Test Bulk Series XYZ",
-    "imageUrls": []
-  },
-  {
-    "id": "sg_mqmpw9peocj9",
-    "type": "character",
-    "ts": 1781981702674,
-    "by": "Malo",
-    "votes": 0,
-    "name": "Bulk Char Two",
-    "franchise": "Test Bulk Series XYZ",
-    "imageUrls": []
   }
 ]

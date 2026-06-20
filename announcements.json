@@ -536,5 +536,194 @@
     "name": "Serry",
     "franchise": "Kurokishi Iron Dress",
     "by": "admin"
+  },
+  {
+    "id": "bulk_256_1781980912593",
+    "ts": 1781980912593,
+    "type": "character",
+    "charId": 256,
+    "name": "Noel Seeker",
+    "franchise": "Trails from Zero",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_259_1781980912593",
+    "ts": 1781980912593,
+    "type": "character",
+    "charId": 259,
+    "name": "Randy Orlando",
+    "franchise": "Trails from Zero",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_265_1781980912593",
+    "ts": 1781980912593,
+    "type": "character",
+    "charId": 265,
+    "name": "KeA",
+    "franchise": "Trails from Zero",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_267_1781980912593",
+    "ts": 1781980912593,
+    "type": "character",
+    "charId": 267,
+    "name": "Cecile Neues",
+    "franchise": "Trails from Zero",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_269_1781980912593",
+    "ts": 1781980912593,
+    "type": "character",
+    "charId": 269,
+    "name": "Mireille",
+    "franchise": "Trails from Zero",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_306_1781980912593",
+    "ts": 1781980912593,
+    "type": "character",
+    "charId": 306,
+    "name": "Mariabell Crois",
+    "franchise": "Trails from Zero",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_316_1781980912593",
+    "ts": 1781980912593,
+    "type": "character",
+    "charId": 316,
+    "name": "Ilya Platiere",
+    "franchise": "Trails from Zero",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_317_1781980912593",
+    "ts": 1781980912593,
+    "type": "character",
+    "charId": 317,
+    "name": "Mishy",
+    "franchise": "Trails from Zero",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_327_1781980912593",
+    "ts": 1781980912593,
+    "type": "character",
+    "charId": 327,
+    "name": "Arios MacLaine",
+    "franchise": "Trails from Zero",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_329_1781980912593",
+    "ts": 1781980912593,
+    "type": "character",
+    "charId": 329,
+    "name": "Grace Lynn",
+    "franchise": "Trails from Zero",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_335_1781980912593",
+    "ts": 1781980912593,
+    "type": "character",
+    "charId": 335,
+    "name": "Fran Seeker",
+    "franchise": "Trails from Zero",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_336_1781980912593",
+    "ts": 1781980912593,
+    "type": "character",
+    "charId": 336,
+    "name": "Aeolia",
+    "franchise": "Trails from Zero",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_339_1781980912593",
+    "ts": 1781980912593,
+    "type": "character",
+    "charId": 339,
+    "name": "Shizuku MacLaine",
+    "franchise": "Trails from Zero",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_340_1781980912593",
+    "ts": 1781980912593,
+    "type": "character",
+    "charId": 340,
+    "name": "Cao Lee",
+    "franchise": "Trails from Zero",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_347_1781980912593",
+    "ts": 1781980912593,
+    "type": "character",
+    "charId": 347,
+    "name": "Zeit",
+    "franchise": "Trails from Zero",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_348_1781980912593",
+    "ts": 1781980912593,
+    "type": "character",
+    "charId": 348,
+    "name": "Alex Dudley",
+    "franchise": "Trails from Zero",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_357_1781980912593",
+    "ts": 1781980912593,
+    "type": "character",
+    "charId": 357,
+    "name": "Jingo",
+    "franchise": "Trails from Zero",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_359_1781980912593",
+    "ts": 1781980912593,
+    "type": "character",
+    "charId": 359,
+    "name": "Bennet",
+    "franchise": "Trails from Zero",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_360_1781980912593",
+    "ts": 1781980912593,
+    "type": "character",
+    "charId": 360,
+    "name": "Sully Atraid",
+    "franchise": "Trails from Zero",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_364_1781980912593",
+    "ts": 1781980912593,
+    "type": "character",
+    "charId": 364,
+    "name": "Mishette",
+    "franchise": "Trails from Zero",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_368_1781980912593",
+    "ts": 1781980912593,
+    "type": "character",
+    "charId": 368,
+    "name": "Pater-Mater",
+    "franchise": "Trails from Zero",
+    "by": "admin"
   }
 ]

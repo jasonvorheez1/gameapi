@@ -653799,5 +653799,186 @@
     "imageUrls": [
       "https://i.imgur.com/ljk1Cy8.png"
     ]
+  },
+  {
+    "Id": 256,
+    "Name": "Noel Seeker",
+    "Franchise": "Trails from Zero",
+    "imageUrls": [
+      "https://i.imgur.com/YqH7DDV.png",
+      "https://mudae.net/uploads/5381336/El0oe7V~SyOKc0H.png",
+      "https://mudae.net/uploads/5381336/GvaY_5a~my8xcwarqp4.png",
+      "https://i.imgur.com/N0kYtKT.png"
+    ]
+  },
+  {
+    "Id": 259,
+    "Name": "Randy Orlando",
+    "Franchise": "Trails from Zero",
+    "imageUrls": [
+      "https://i.imgur.com/SqhnHgD.png",
+      "https://i.imgur.com/FLRmZ50.png"
+    ]
+  },
+  {
+    "Id": 265,
+    "Name": "KeA",
+    "Franchise": "Trails from Zero",
+    "imageUrls": [
+      "https://i.imgur.com/2iVnfhX.png",
+      "https://i.imgur.com/1MwU91k.png",
+      "https://i.imgur.com/dwpqN7x.png",
+      "https://i.imgur.com/jPciq1h.png",
+      "https://i.imgur.com/8SWj6pA.png"
+    ]
+  },
+  {
+    "Id": 267,
+    "Name": "Cecile Neues",
+    "Franchise": "Trails from Zero",
+    "imageUrls": [
+      "https://i.imgur.com/7xFPdi4.png",
+      "https://i.imgur.com/sP4kG3v.png"
+    ]
+  },
+  {
+    "Id": 269,
+    "Name": "Mireille",
+    "Franchise": "Trails from Zero",
+    "imageUrls": [
+      "https://i.imgur.com/dSR36eh.png"
+    ]
+  },
+  {
+    "Id": 306,
+    "Name": "Mariabell Crois",
+    "Franchise": "Trails from Zero",
+    "imageUrls": [
+      "https://i.imgur.com/zZu8dCH.png",
+      "https://i.imgur.com/k3FdAFM.png"
+    ]
+  },
+  {
+    "Id": 316,
+    "Name": "Ilya Platiere",
+    "Franchise": "Trails from Zero",
+    "imageUrls": [
+      "https://i.imgur.com/hwsEtl2.png"
+    ]
+  },
+  {
+    "Id": 317,
+    "Name": "Mishy",
+    "Franchise": "Trails from Zero",
+    "imageUrls": [
+      "https://i.imgur.com/ZlA0b1F.png"
+    ]
+  },
+  {
+    "Id": 327,
+    "Name": "Arios MacLaine",
+    "Franchise": "Trails from Zero",
+    "imageUrls": [
+      "https://i.imgur.com/aQ9F4wc.png",
+      "https://i.imgur.com/ai2tEo5.png"
+    ]
+  },
+  {
+    "Id": 329,
+    "Name": "Grace Lynn",
+    "Franchise": "Trails from Zero",
+    "imageUrls": [
+      "https://i.imgur.com/yzue8Si.png"
+    ]
+  },
+  {
+    "Id": 335,
+    "Name": "Fran Seeker",
+    "Franchise": "Trails from Zero",
+    "imageUrls": [
+      "https://i.imgur.com/jckMz2D.png",
+      "https://i.imgur.com/qKH7b81.png",
+      "https://i.imgur.com/cYuVGHx.png"
+    ]
+  },
+  {
+    "Id": 336,
+    "Name": "Aeolia",
+    "Franchise": "Trails from Zero",
+    "imageUrls": [
+      "https://i.imgur.com/jgwhh5F.png"
+    ]
+  },
+  {
+    "Id": 339,
+    "Name": "Shizuku MacLaine",
+    "Franchise": "Trails from Zero",
+    "imageUrls": [
+      "https://i.imgur.com/34Uy3rN.png",
+      "https://i.imgur.com/f2I0xh3.png"
+    ]
+  },
+  {
+    "Id": 340,
+    "Name": "Cao Lee",
+    "Franchise": "Trails from Zero",
+    "imageUrls": [
+      "https://i.imgur.com/7Zj0yow.png"
+    ]
+  },
+  {
+    "Id": 347,
+    "Name": "Zeit",
+    "Franchise": "Trails from Zero",
+    "imageUrls": [
+      "https://i.imgur.com/y2huXly.png"
+    ]
+  },
+  {
+    "Id": 348,
+    "Name": "Alex Dudley",
+    "Franchise": "Trails from Zero",
+    "imageUrls": [
+      "https://i.imgur.com/nFWCKiA.png"
+    ]
+  },
+  {
+    "Id": 357,
+    "Name": "Jingo",
+    "Franchise": "Trails from Zero",
+    "imageUrls": [
+      "https://i.imgur.com/i30pYBZ.png"
+    ]
+  },
+  {
+    "Id": 359,
+    "Name": "Bennet",
+    "Franchise": "Trails from Zero",
+    "imageUrls": [
+      "https://i.imgur.com/gn1rbGo.png"
+    ]
+  },
+  {
+    "Id": 360,
+    "Name": "Sully Atraid",
+    "Franchise": "Trails from Zero",
+    "imageUrls": [
+      "https://i.imgur.com/4LzEgVe.png",
+      "https://i.imgur.com/Q1BHEcw.png"
+    ]
+  },
+  {
+    "Id": 364,
+    "Name": "Mishette",
+    "Franchise": "Trails from Zero",
+    "imageUrls": [
+      "https://i.imgur.com/PlMq6Kp.png"
+    ]
+  },
+  {
+    "Id": 368,
+    "Name": "Pater-Mater",
+    "Franchise": "Trails from Zero",
+    "imageUrls": []
   }
 ]

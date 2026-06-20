@@ -653767,5 +653767,37 @@
     "imageUrls": [
       "https://i.imgur.com/CluPf1F.png"
     ]
+  },
+  {
+    "Id": 229,
+    "Name": "Berry",
+    "Franchise": "Kurokishi Iron Dress",
+    "imageUrls": [
+      "https://mudae.net/uploads/4425265/3r2f6i5~A7htJ8Y.png"
+    ]
+  },
+  {
+    "Id": 235,
+    "Name": "Zemnyalika",
+    "Franchise": "Kurokishi Iron Dress",
+    "imageUrls": [
+      "https://i.imgur.com/TVdvC4g.png"
+    ]
+  },
+  {
+    "Id": 239,
+    "Name": "Edda",
+    "Franchise": "Kurokishi Iron Dress",
+    "imageUrls": [
+      "https://i.imgur.com/4j0nYdA.png"
+    ]
+  },
+  {
+    "Id": 240,
+    "Name": "Serry",
+    "Franchise": "Kurokishi Iron Dress",
+    "imageUrls": [
+      "https://i.imgur.com/ljk1Cy8.png"
+    ]
   }
 ]

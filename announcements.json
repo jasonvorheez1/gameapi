@@ -500,5 +500,41 @@
     "name": "Miller",
     "franchise": "The Black Phone",
     "by": "admin"
+  },
+  {
+    "id": "bulk_229_1781978120230",
+    "ts": 1781978120230,
+    "type": "character",
+    "charId": 229,
+    "name": "Berry",
+    "franchise": "Kurokishi Iron Dress",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_235_1781978120230",
+    "ts": 1781978120230,
+    "type": "character",
+    "charId": 235,
+    "name": "Zemnyalika",
+    "franchise": "Kurokishi Iron Dress",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_239_1781978120230",
+    "ts": 1781978120230,
+    "type": "character",
+    "charId": 239,
+    "name": "Edda",
+    "franchise": "Kurokishi Iron Dress",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_240_1781978120230",
+    "ts": 1781978120230,
+    "type": "character",
+    "charId": 240,
+    "name": "Serry",
+    "franchise": "Kurokishi Iron Dress",
+    "by": "admin"
   }
 ]

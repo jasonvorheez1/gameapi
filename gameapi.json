@@ -653694,5 +653694,78 @@
     "imageUrls": [
       "https://i.imgur.com/Wo3jm3z.png"
     ]
+  },
+  {
+    "Id": 186,
+    "Name": "The Grabber",
+    "Franchise": "The Black Phone",
+    "imageUrls": [
+      "https://i.imgur.com/ggjr6q0.png"
+    ]
+  },
+  {
+    "Id": 188,
+    "Name": "Finney Blake",
+    "Franchise": "The Black Phone",
+    "imageUrls": [
+      "https://i.imgur.com/Lxy6JRB.png"
+    ]
+  },
+  {
+    "Id": 190,
+    "Name": "Vance Hopper",
+    "Franchise": "The Black Phone",
+    "imageUrls": [
+      "https://i.imgur.com/Yxhuh0f.png",
+      "https://i.imgur.com/8QEm7yY.png"
+    ]
+  },
+  {
+    "Id": 197,
+    "Name": "gwen blake",
+    "Franchise": "The Black Phone",
+    "imageUrls": [
+      "https://i.imgur.com/9jyc7bW.png"
+    ]
+  },
+  {
+    "Id": 204,
+    "Name": "Bruce Yamada",
+    "Franchise": "The Black Phone",
+    "imageUrls": [
+      "https://i.imgur.com/XktYdzt.png"
+    ]
+  },
+  {
+    "Id": 208,
+    "Name": "Max",
+    "Franchise": "The Black Phone",
+    "imageUrls": [
+      "https://i.imgur.com/om6zgEX.png"
+    ]
+  },
+  {
+    "Id": 209,
+    "Name": "Terrence Blake",
+    "Franchise": "The Black Phone",
+    "imageUrls": [
+      "https://i.imgur.com/IqpYB06.png"
+    ]
+  },
+  {
+    "Id": 216,
+    "Name": "Wright",
+    "Franchise": "The Black Phone",
+    "imageUrls": [
+      "https://i.imgur.com/CluPf1F.png"
+    ]
+  },
+  {
+    "Id": 219,
+    "Name": "Miller",
+    "Franchise": "The Black Phone",
+    "imageUrls": [
+      "https://i.imgur.com/CluPf1F.png"
+    ]
   }
 ]

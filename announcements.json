@@ -419,5 +419,86 @@
     "name": "Kubito Zaizen",
     "franchise": "Club Suicide",
     "by": "admin"
+  },
+  {
+    "id": "bulk_186_1781974975698",
+    "ts": 1781974975698,
+    "type": "character",
+    "charId": 186,
+    "name": "The Grabber",
+    "franchise": "The Black Phone",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_188_1781974975698",
+    "ts": 1781974975698,
+    "type": "character",
+    "charId": 188,
+    "name": "Finney Blake",
+    "franchise": "The Black Phone",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_190_1781974975698",
+    "ts": 1781974975698,
+    "type": "character",
+    "charId": 190,
+    "name": "Vance Hopper",
+    "franchise": "The Black Phone",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_197_1781974975698",
+    "ts": 1781974975698,
+    "type": "character",
+    "charId": 197,
+    "name": "gwen blake",
+    "franchise": "The Black Phone",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_204_1781974975698",
+    "ts": 1781974975698,
+    "type": "character",
+    "charId": 204,
+    "name": "Bruce Yamada",
+    "franchise": "The Black Phone",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_208_1781974975698",
+    "ts": 1781974975698,
+    "type": "character",
+    "charId": 208,
+    "name": "Max",
+    "franchise": "The Black Phone",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_209_1781974975698",
+    "ts": 1781974975698,
+    "type": "character",
+    "charId": 209,
+    "name": "Terrence Blake",
+    "franchise": "The Black Phone",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_216_1781974975698",
+    "ts": 1781974975698,
+    "type": "character",
+    "charId": 216,
+    "name": "Wright",
+    "franchise": "The Black Phone",
+    "by": "admin"
+  },
+  {
+    "id": "bulk_219_1781974975698",
+    "ts": 1781974975698,
+    "type": "character",
+    "charId": 219,
+    "name": "Miller",
+    "franchise": "The Black Phone",
+    "by": "admin"
   }
 ]

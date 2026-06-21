@@ -761,5 +761,14 @@
     "name": "Hawlucha",
     "franchise": "PokÃÂ©mon Creatures (gen 6)",
     "by": "Malo"
+  },
+  {
+    "id": "bulk_389_1782003256279",
+    "ts": 1782003256279,
+    "type": "character",
+    "charId": 389,
+    "name": "SCP-1471",
+    "franchise": "SCP Foundation",
+    "by": "admin"
   }
 ]

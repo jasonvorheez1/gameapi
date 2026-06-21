@@ -752,5 +752,14 @@
     "name": "Lechter Arundel",
     "franchise": "Trails in The Sky",
     "by": "admin"
+  },
+  {
+    "id": "sg_mqmhvbftqcfa",
+    "ts": 1782000949983,
+    "type": "character",
+    "charId": 388,
+    "name": "Hawlucha",
+    "franchise": "PokÃÂ©mon Creatures (gen 6)",
+    "by": "Malo"
   }
 ]
